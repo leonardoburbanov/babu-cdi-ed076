@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Estimulación temprana y desarrollo integral para tu peque
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      Transformamos la vida de tu bebé y tu vida.
     actions:
       - label: Learn More
         url: /features
