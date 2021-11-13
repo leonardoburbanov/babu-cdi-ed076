@@ -9,7 +9,7 @@ sections:
     content: |
       Transformamos la vida de tu bebé y tu vida.
     actions:
-      - label: Learn More
+      - label: Saber más
         url: /features
         style: primary
   - section_id: features
