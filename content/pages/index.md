@@ -16,7 +16,9 @@ sections:
     type: section_features
     background: gray
     title: Servicios
-    subtitle: ¡Transformamos el día a día de tu peque!
+    subtitle: >-
+      ¡Transformamos el día a día de tu peque! Un respiro y tranquilidad para
+      Mamá y Papá
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
