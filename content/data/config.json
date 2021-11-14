@@ -43,7 +43,7 @@
                 "no_follow": false
             },
             {
-                "label": "Sign Up",
+                "label": "Evaluación",
                 "url": "/signup",
                 "style": "primary"
             }
