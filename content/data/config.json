@@ -43,7 +43,7 @@
                 "no_follow": false
             },
             {
-                "label": "Evaluación",
+                "label": "Agendar evaluación",
                 "url": "/signup",
                 "style": "primary"
             }
