@@ -33,11 +33,6 @@
                 "no_follow": false
             },
             {
-                "label": "¿Quienes somos?",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
                 "label": "Sign Up",
                 "url": "/signup",
                 "style": "primary"
