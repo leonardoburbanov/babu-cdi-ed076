@@ -62,11 +62,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Terapia del Lenguaje
-        content: |
-          ##
-        image_alt: lorem-ipsum
-        actions: []
   - section_id: reviews
     type: section_reviews
     background: white
