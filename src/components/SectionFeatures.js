@@ -22,7 +22,7 @@ export default class SectionFeatures extends React.Component {
                     )}
                     <div className="cell block-content">
                         <h3 className="block-title underline">{title}</h3>
-                        <div className="block-copy">{markdownify(content)}</div>
+                        Se
                         {actions && (
                             <div className="block-buttons">
                                 <CtaButtons actions={actions} />
