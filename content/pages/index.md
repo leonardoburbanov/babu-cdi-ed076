@@ -47,20 +47,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        image_alt: lorem-ipsum
-        actions: []
       - title: 'Baby Gym: Terapia física y ocupacional'
         image: /images/WhatsApp Image 2021-11-13 at 10.35.50 PM (1).jpeg
         image_alt: App user profile preview
