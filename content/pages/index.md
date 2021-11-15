@@ -17,8 +17,8 @@ sections:
     background: gray
     title: Servicios
     subtitle: >-
-      ¡Transformamos el día a día de tu peque! Un respiro y tranquilidad para
-      Mamá y Papá
+      Profesionales comprometidas con el día a día y el crecimiento saludable de
+      tu bebé.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
