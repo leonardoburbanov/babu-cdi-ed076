@@ -62,7 +62,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: 'Baby Gym: Terapia física y ocupacional'
+      - title: Terapia del Lenguaje
         image: /images/WhatsApp Image 2021-11-13 at 10.35.50 PM (1).jpeg
         image_alt: App user profile preview
         content: >
