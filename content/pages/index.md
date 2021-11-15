@@ -68,7 +68,7 @@ sections:
     title: Testimonios
     subtitle: ¿Cómo trabajamos?
     reviews:
-      - author: Eric Widget
+      - author: Mamá 1
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
