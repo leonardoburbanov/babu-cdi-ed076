@@ -69,7 +69,7 @@ sections:
           ¿A mi bebé le cuesta comunicarse? ¿No me entiende? ¿Qué hago? La
           terapia del lenguaje es crucial en los primeros meses y años.
         actions:
-          - label: Learn More
+          - label: Saber más
             url: /features
             style: secondary
             has_icon: true
