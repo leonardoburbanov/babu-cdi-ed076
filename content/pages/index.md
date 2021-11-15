@@ -37,10 +37,9 @@ sections:
       - title: Hidroterapia
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          ¿Quieres garantizar el desarrollo físico de tu bebé? ¿Quieres apoyar a
+          tu bebé en su recuperación? La hidroterapia es la solución.
         actions:
           - label: Learn More
             url: /features
