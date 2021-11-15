@@ -23,10 +23,9 @@ sections:
       - title: ¿Cómo apoyar a tu bebé?
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Desde Babu, evaluamos y cuidamos el desarrollo de tu bebé con
+          metodologías confiables basadas en el juego, respeto y amor.
         actions:
           - label: Learn More
             url: /features
