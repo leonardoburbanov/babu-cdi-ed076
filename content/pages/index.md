@@ -41,7 +41,7 @@ sections:
           ¿Quieres garantizar el desarrollo físico de tu bebé? ¿Quieres apoyar a
           tu bebé en su recuperación? La hidroterapia es la solución.
         actions:
-          - label: Learn More
+          - label: Saber más
             url: /features
             style: secondary
             has_icon: true
