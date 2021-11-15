@@ -25,7 +25,8 @@ sections:
         image_alt: App preview on a phone and tablet
         content: >
           Desde Babu, evaluamos y cuidamos el desarrollo de tu bebé con
-          metodologías confiables basadas en el juego, respeto y amor.
+          metodologías confiables basadas en el juego, respeto y amor. Ven con
+          tu bebé y vive una experiencia de aprendizaje y apoyo.
         actions:
           - label: Learn More
             url: /features
