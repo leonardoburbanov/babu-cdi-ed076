@@ -50,10 +50,11 @@ sections:
       - title: 'Baby Gym: Terapia física y ocupacional'
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          ¿Mi bebé está creciendo fuerte? ¿Tiene las habilidades acorde a su
+          edad? Aquí, te apoyamos a que tu bebé encuentre sus primeros
+          ejercicios, tanto para desarrollo muscular como para desarrollo
+          neurológico. ¡Juegan y se ponen fuertes!
         actions:
           - label: Learn More
             url: /features
