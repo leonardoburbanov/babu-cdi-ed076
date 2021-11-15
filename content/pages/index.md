@@ -21,7 +21,7 @@ sections:
       tu bebé.
     features:
       - title: ¿Cómo apoyar a tu bebé?
-        image: images/feature1.png
+        image: /images/Escena 2 ilustracion 3D.png
         image_alt: App preview on a phone and tablet
         content: >
           Desde Babu, evaluamos y cuidamos el desarrollo de tu bebé con
