@@ -62,7 +62,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: lorem-ipsum
+      - title: Terapia del Lenguaje
         content: >-
           ## Lorem ipsum
 
