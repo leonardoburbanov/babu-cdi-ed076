@@ -47,7 +47,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: 'Terapia física y ocupacional: Baby Gym'
+      - title: 'Baby Gym: Terapia física y ocupacional'
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
