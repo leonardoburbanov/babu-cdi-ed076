@@ -84,7 +84,7 @@ sections:
           ejercicios, tanto para desarrollo muscular como para desarrollo
           neurológico. ¡Juegan y se ponen fuertes!
         actions:
-          - label: Learn More
+          - label: Saber más
             url: /features
             style: secondary
             has_icon: true
