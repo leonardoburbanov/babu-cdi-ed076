@@ -63,9 +63,8 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Terapia del Lenguaje
-        content: >
+        content: |
           ##
-          ![](/images/WhatsApp%20Image%202021-11-13%20at%2010.35.53%20PM%20\(2\).jpeg)
         image_alt: lorem-ipsum
         actions: []
   - section_id: reviews
