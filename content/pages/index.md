@@ -20,7 +20,7 @@ sections:
       Profesionales comprometidas con el día a día y el crecimiento saludable de
       tu bebé.
     features:
-      - title: The Best Feature of Your Services
+      - title: Terapia integral infantil
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
