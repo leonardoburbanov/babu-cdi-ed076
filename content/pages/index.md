@@ -35,7 +35,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Hidroterapia
-        image: images/feature2.png
+        image: /images/WhatsApp Image 2021-11-13 at 10.17.09 PM (3).jpeg
         image_alt: App users welcoming a new member
         content: >
           ¿Quieres garantizar el desarrollo físico de tu bebé? ¿Quieres apoyar a
