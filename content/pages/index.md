@@ -65,11 +65,9 @@ sections:
       - title: Terapia del lenguaje
         image: /images/WhatsApp Image 2021-11-13 at 10.35.50 PM (3).jpeg
         image_alt: App user profile preview
-        content: >
-          ¿Mi bebé está creciendo fuerte? ¿Tiene las habilidades acorde a su
-          edad? Aquí, te apoyamos a que tu bebé encuentre sus primeros
-          ejercicios, tanto para desarrollo muscular como para desarrollo
-          neurológico. ¡Juegan y se ponen fuertes!
+        content: |+
+          ## ¡
+
         actions:
           - label: Learn More
             url: /features
