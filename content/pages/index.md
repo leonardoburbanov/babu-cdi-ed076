@@ -62,7 +62,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Terapia del Lenguaje
+      - title: Terapia del lenguaje
         image: /images/WhatsApp Image 2021-11-13 at 10.35.50 PM (1).jpeg
         image_alt: App user profile preview
         content: >
