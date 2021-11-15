@@ -63,17 +63,9 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Terapia del Lenguaje
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          ##
+          ![](/images/WhatsApp%20Image%202021-11-13%20at%2010.35.53%20PM%20\(2\).jpeg)
         image_alt: lorem-ipsum
         actions: []
   - section_id: reviews
