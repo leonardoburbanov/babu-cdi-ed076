@@ -66,7 +66,7 @@ sections:
     type: section_reviews
     background: white
     title: Nuestras profesionales
-    subtitle: ¿Cómo trabajamos?
+    subtitle: ¿Quiénes somos?
     reviews:
       - author: Mamá 1
         avatar: images/review1.jpg
