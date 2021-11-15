@@ -65,7 +65,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Testimonios
+    title: Nuestras profesionales
     subtitle: ¿Cómo trabajamos?
     reviews:
       - author: Mamá 1
