@@ -66,9 +66,7 @@ sections:
     type: section_reviews
     background: white
     title: Testimonios
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+    subtitle: ¿Cómo trabajamos?
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
