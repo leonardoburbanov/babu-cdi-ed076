@@ -66,10 +66,8 @@ sections:
         image: /images/WhatsApp Image 2021-11-13 at 10.35.50 PM (3).jpeg
         image_alt: App user profile preview
         content: >
-          ¿Mi bebé está creciendo fuerte? ¿Tiene las habilidades acorde a su
-          edad? Aquí, te apoyamos a que tu bebé encuentre sus primeros
-          ejercicios, tanto para desarrollo muscular como para desarrollo
-          neurológico. ¡Juegan y se ponen fuertes!
+          ¿A mi bebé le cuesta comunicarse? ¿No me entiende? ¿Qué hago? La
+          terapia del lenguaje es crucial en los primeros meses y años.
         actions:
           - label: Learn More
             url: /features
