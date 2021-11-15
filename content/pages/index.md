@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/Foto 2.svg
+    image: /images/Escena 1 ilustracion 3D.png
     image_alt: App preview
     title: Estimulación temprana y desarrollo integral para tu peque
     content: |
