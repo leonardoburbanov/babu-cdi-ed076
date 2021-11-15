@@ -63,7 +63,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Terapia del lenguaje
-        image: /images/WhatsApp Image 2021-11-13 at 10.35.50 PM (3).jpeg
+        image: /images/Baby 2.png
         image_alt: App user profile preview
         content: >
           ¿A mi bebé le cuesta comunicarse? ¿No me entiende? ¿Qué hago? La
