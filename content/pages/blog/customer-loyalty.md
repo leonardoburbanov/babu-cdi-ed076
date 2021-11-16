@@ -1,6 +1,6 @@
 ---
 title: Hidroterapia
-subtitle: A story about customer loyalty
+subtitle: ¡El agua y los bebés se llevan más que bien!
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
