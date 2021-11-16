@@ -91,14 +91,6 @@
                         "icon_position": "left"
                     },
                     {
-                        "label": "GitHub",
-                        "url": "https://github.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "envelope",
-                        "icon_position": "left"
-                    },
-                    {
                         "label": "Instagram",
                         "url": "lorem-ipsum",
                         "style": "link",
