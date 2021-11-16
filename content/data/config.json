@@ -107,7 +107,7 @@
             {
                 "type": "footer_form",
                 "title": "Promociones",
-                "content": "Tenemos promociones todos los meses. Déjanos tu email para agregarte a los grupos exclusivos donde las podrás recibir. \n\\*\\*Solo recibirás un email de Babu.\n",
+                "content": "Tenemos promociones todos los meses. Déjanos tu email para agregarte a los grupos exclusivos donde las podrás recibir.\n",
                 "form_id": "subscribeForm",
                 "hide_labels": true,
                 "form_fields": [
