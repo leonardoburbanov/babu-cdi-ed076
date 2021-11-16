@@ -99,7 +99,7 @@ sections:
     title: Nuestras profesionales
     subtitle: ¿Quiénes somos?
     reviews:
-      - avatar: images/review1.jpg
+      - avatar: /images/Foto SG.png
         avatar_alt: Eric Widget's photo
         content: >-
           La terapia ocupacional forma parte de mis especialidades para apoyar a
