@@ -105,7 +105,7 @@
             {
                 "type": "footer_form",
                 "title": "Promociones",
-                "content": "Stay up to date with our latest developments.",
+                "content": "Tenemos promociones todos los meses. Déjanos tu email para agregarte a los grupos exclusivos donde las podrás recibir. Solo recibirás un email.\n",
                 "form_id": "subscribeForm",
                 "hide_labels": true,
                 "form_fields": [
