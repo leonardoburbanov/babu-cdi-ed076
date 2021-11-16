@@ -787,7 +787,7 @@ models:
       - type: text
         name: content
         label: Content
-      - name: ''
+      - name: Author Field
         type: string
   section_contact:
     type: object
