@@ -148,7 +148,7 @@ sections:
       del edificio)
     background: gray
     form_id: lorem-ipsum
-    form_action: Ver en Google Maps
+    form_action: Goo
     hide_labels: false
     form_fields: []
     submit_label: lorem-ipsum
