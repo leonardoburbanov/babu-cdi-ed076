@@ -104,7 +104,7 @@
             },
             {
                 "type": "footer_form",
-                "title": "Subscribe",
+                "title": "Promociones",
                 "content": "Stay up to date with our latest developments.",
                 "form_id": "subscribeForm",
                 "hide_labels": true,
