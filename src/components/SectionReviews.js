@@ -9,8 +9,7 @@ export default class SectionReviews extends React.Component {
         const avatar = _.get(review, 'avatar');
         const avatarAlt = _.get(review, 'avatar_alt');
         const author = _.get(review, 'author');
-        const author_desc = _.get(author_desc, 'author_desc');
-
+        
         return (
             <blockquote key={index} className="cell review">
                 <div className="card">
@@ -18,7 +17,6 @@ export default class SectionReviews extends React.Component {
                     <footer className="review-footer">
                         {avatar && <img className="review-avatar" src={withPrefix(avatar)} alt={avatarAlt} />}
                         {author && <cite className="review-author">{author}</cite>}
-                        {author_desc && <cite className="author_desc">{author_desc}</cite>}
                     </footer>
                 </div>
             </blockquote>
