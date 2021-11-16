@@ -122,6 +122,12 @@ sections:
           modernas y reconocidas. Estamos innovando en los tratamientos desde la
           diversión y el amor.
         author_desc: ' Especialista en Canoterapia, Terapia Ocupacional y Gestión Clínica Infantil'
+      - author: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        author_desc: Desc
   - section_id: call-to-action
     type: section_cta
     title: ¡Agenda tu evaluación ahora!
