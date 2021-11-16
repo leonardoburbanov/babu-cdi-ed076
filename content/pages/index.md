@@ -151,7 +151,7 @@ sections:
     form_action: Goo
     hide_labels: false
     form_fields: []
-    submit_label: lorem-ipsum
+    submit_label: Ver en Google Maps
     type: section_contact
 seo:
   title: Stackbit Azimuth Theme
