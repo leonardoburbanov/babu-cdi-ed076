@@ -114,9 +114,7 @@ sections:
           que todos los involucrados apoyen en el desarrollo del bebé y del
           infante.
         author_desc: 'Especialista en Desarrollo Infantil, Atención Temprana y Fisioterapia'
-      - author: >-
-          Gabriela Miranda - Especialista en Canoterapia, Terapia Ocupacional y
-          Gestión Clínica Infantil
+      - author: Gabriela Miranda
         avatar: /images/Foto GM (1).png
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
