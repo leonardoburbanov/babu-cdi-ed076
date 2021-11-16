@@ -116,7 +116,7 @@ sections:
           dui sollicitudin, vel posuere justo laoreet.
       - author: >-
           Gabriela Miranda - Especialista en Canoterapia, Terapia Ocupacional y
-          Gestión Clínica
+          Gestión Clínica Infantil
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
