@@ -126,7 +126,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: ¡Agenda tu evaluación ahora!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Aprovecha de nuestra promoción de este mes.
     actions:
       - label: Get Started
         url: /signup
