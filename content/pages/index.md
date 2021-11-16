@@ -121,7 +121,7 @@ sections:
           Apoyamos en rehabilitación a nuestros niños utilizando metodologías
           modernas y reconocidas. Estamos innovando en los tratamientos desde la
           diversión y el amor.
-        author_desc: ' - Especialista en Canoterapia, Terapia Ocupacional y Gestión Clínica Infantil'
+        author_desc: ' Especialista en Canoterapia, Terapia Ocupacional y Gestión Clínica Infantil'
   - section_id: call-to-action
     type: section_cta
     title: ¡Agenda tu evaluación ahora!
