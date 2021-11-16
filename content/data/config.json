@@ -83,14 +83,6 @@
                         "icon_position": "left"
                     },
                     {
-                        "label": "LinkedIn",
-                        "url": "https://www.linkedin.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "linkedin",
-                        "icon_position": "left"
-                    },
-                    {
                         "label": "Instagram",
                         "url": "lorem-ipsum",
                         "style": "link",
