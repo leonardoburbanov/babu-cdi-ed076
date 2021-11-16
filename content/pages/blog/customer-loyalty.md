@@ -5,7 +5,7 @@ author: content/data/authors/jane-doe.yaml
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
   amet commodo massa.
-date: '2021-01-03'
+date: '2021-02-03'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
 image: /images/Tortuga.svg
