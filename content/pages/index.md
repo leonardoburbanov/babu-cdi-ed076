@@ -108,7 +108,7 @@ sections:
       - author: >-
           Cinthya Guerrón - Especialista en Desarrollo Infantil, Atención
           Temprana y Fisioterapia
-        avatar: images/review2.jpg
+        avatar: /images/Foto CG (1).png
         avatar_alt: Parsley Montana's photo
         content: >-
           La familia es la clave en cualquier intervención terapéutica. Cuidamos
