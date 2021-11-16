@@ -112,9 +112,7 @@ sections:
           La familia es la clave en cualquier intervención terapéutica. Cuidamos
           que todos los involucrados apoyen en el desarrollo del bebé y del
           infante.
-        author_desc: >-
-          - Especialista en Desarrollo Infantil, Atención Temprana y
-          Fisioterapia
+        author_desc: 'Especialista en Desarrollo Infantil, Atención Temprana y Fisioterapia'
       - author: >-
           Gabriela Miranda - Especialista en Canoterapia, Terapia Ocupacional y
           Gestión Clínica Infantil
