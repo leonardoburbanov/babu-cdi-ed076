@@ -104,7 +104,7 @@ sections:
         content: >-
           La terapia ocupacional forma parte de mis especialidades para apoyar a
           los más pequeños. Estamos construyendo algo innovador y grande.
-        author: Stephanie Guerrero
+        author: Stephanie Guerrero en Terapia
       - author: Cinthya Guerrón
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
