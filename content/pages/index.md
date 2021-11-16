@@ -128,7 +128,7 @@ sections:
     title: ¡Agenda tu evaluación ahora!
     subtitle: Aprovecha de nuestra promoción de este mes.
     actions:
-      - label: Agendar
+      - label: Ver promociones
         url: /signup
         style: primary
   - section_id: recent-posts
