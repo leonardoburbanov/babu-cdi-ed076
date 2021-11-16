@@ -789,6 +789,7 @@ models:
         label: Content
       - name: author_desc
         type: string
+        label: Author Field
   section_contact:
     type: object
     label: Contact Section
