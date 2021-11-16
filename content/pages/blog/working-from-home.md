@@ -1,8 +1,6 @@
 ---
 title: 'Baby Gym: Terapia física y ocupacional'
-excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+excerpt: ¡Movimiento! + ¡Neurodesarrollo! + ¡Rehabilitación! + ¡Juegos!
 author: content/data/authors/jane-doe.yaml
 date: '2020-04-22'
 thumb_image: images/9_thumb.jpg
