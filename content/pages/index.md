@@ -103,7 +103,7 @@ sections:
         avatar_alt: Eric Widget's photo
         content: >-
           La terapia ocupacional forma parte de mis especialidades para apoyar a
-          los más pequeños.
+          los más pequeños. ¡!
         author: Stephanie Guerrero
       - author: Mamá 2
         avatar: images/review2.jpg
