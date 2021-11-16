@@ -123,11 +123,6 @@ sections:
           Apoyamos en rehabilitación a nuestros niños utilizando metodologías
           modernas y reconocidas. Estamos innovando en los tratamientos desde la
           diversión y el amor.
-      - author: lorem-ipsum
-        avatar_alt: lorem-ipsum
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
