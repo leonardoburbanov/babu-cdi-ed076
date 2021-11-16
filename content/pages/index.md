@@ -135,7 +135,7 @@ sections:
     background: gray
     title: Últimos artículos
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Contacto
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
