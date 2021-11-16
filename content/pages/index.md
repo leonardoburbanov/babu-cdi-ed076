@@ -99,8 +99,7 @@ sections:
     title: Nuestras profesionales
     subtitle: ¿Quiénes somos?
     reviews:
-      - author: Mamá 1
-        avatar: images/review1.jpg
+      - avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
