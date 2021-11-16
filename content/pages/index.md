@@ -138,11 +138,14 @@ sections:
     title: Contacto
     subtitle: ¿Dónde estamos ubicados?
     content: >
-      ## Edificio Novus - Centro Norte, Quito, Ecuador
+      ## Edificio Novus
 
 
-      Av. 6 de Diciembre y Luis Cordero, diagonal al hospital Baca Ortiz, dentro
-      del edificio
+      ##### Centro Norte, Quito, Ecuador
+
+
+      Av. 6 de Diciembre y Luis Cordero, diagonal al hospital Baca Ortiz (Dentro
+      del edificio)
     background: gray
     form_id: lorem-ipsum
     form_action: lorem-ipsum
