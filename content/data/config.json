@@ -49,7 +49,7 @@
                 "title": "Empresa",
                 "nav_links": [
                     {
-                        "label": "About Us",
+                        "label": "Sobre nosotras",
                         "url": "/about",
                         "style": "link"
                     },
