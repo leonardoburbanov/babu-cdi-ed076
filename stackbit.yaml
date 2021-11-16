@@ -790,6 +790,7 @@ models:
       - name: author_desc
         type: string
         label: Author Desc
+        description: Desc
   section_contact:
     type: object
     label: Contact Section
