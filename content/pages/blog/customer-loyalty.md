@@ -2,9 +2,7 @@
 title: Hidroterapia
 subtitle: ¡El agua y los bebés se llevan más que bien!
 author: content/data/authors/jane-doe.yaml
-excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+excerpt: ¡Los bebés y el agua se llevan más que bien!
 date: '2021-08-08'
 thumb_image: /images/Tortuga.svg
 thumb_image_alt: A group of people working in a cafe
