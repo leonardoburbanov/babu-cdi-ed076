@@ -114,7 +114,9 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin, vel posuere justo laoreet.
-      - author: Gabi ----
+      - author: >-
+          Gabriela Miranda - Especialista en Canoterapia, Terapia Ocupacional y
+          Gestión Clínica
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
