@@ -78,11 +78,14 @@ sections:
       - title: Terapia con perritos
         image: /images/WhatsApp Image 2021-11-13 at 10.35.55 PM (2).jpeg
         image_alt: App user profile preview
-        content: >
-          ¿Mi bebé está creciendo fuerte? ¿Tiene las habilidades acorde a su
-          edad? Aquí, te apoyamos a que tu bebé encuentre sus primeros
-          ejercicios, tanto para desarrollo muscular como para desarrollo
-          neurológico. ¡Juegan y se ponen fuertes!
+        content: >+
+          También conocida como canoterapia, esta práctica corrige problemas de
+          aprendizaje y es una herramienta para mejorar la motricidad fina y
+          gruesa de los bebés y niños. Nuestros perritos ayudan a generar
+          confianza en los niños más pequeños, el objetivo es que se sientan
+          capaces de desarrollar cualquier actividad.
+
+
         actions:
           - label: Saber más
             url: /features
