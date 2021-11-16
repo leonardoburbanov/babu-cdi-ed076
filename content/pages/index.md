@@ -117,7 +117,7 @@ sections:
       - author: >-
           Gabriela Miranda - Especialista en Canoterapia, Terapia Ocupacional y
           Gestión Clínica Infantil
-        avatar: images/review3.jpg
+        avatar: /images/Foto GM (1).png
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Apoyamos en rehabilitación a nuestros niños utilizando metodologías
