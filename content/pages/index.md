@@ -104,7 +104,6 @@ sections:
         content: >-
           La terapia ocupacional forma parte de las especialidades para apoyar
           en la rehabilitación y desarrollo preventivo para los más pequeños.
-          Estamos construyendo algo innovador y grande.
         author: Stephanie Guerrero
         author_desc: Especialista en Terapia Ocupacional y Crianza
       - author: Cinthya Guerrón
