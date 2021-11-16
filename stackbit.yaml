@@ -790,7 +790,6 @@ models:
       - name: author_desc
         type: string
         label: Author Desc
-        readOnly: true
   section_contact:
     type: object
     label: Contact Section
