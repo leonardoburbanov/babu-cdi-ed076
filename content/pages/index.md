@@ -136,7 +136,7 @@ sections:
     title: Últimos artículos
   - section_id: lorem-ipsum
     title: Contacto
-    subtitle: lorem-ipsum
+    subtitle: ¿?
     content: >-
       ## Lorem ipsum
 
