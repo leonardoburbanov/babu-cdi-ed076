@@ -102,8 +102,9 @@ sections:
       - avatar: /images/Foto SG.png
         avatar_alt: Eric Widget's photo
         content: >-
-          La terapia ocupacional forma parte de mis especialidades para apoyar a
-          los más pequeños. Estamos construyendo algo innovador y grande.
+          La terapia ocupacional forma parte de las especialidades para apoyar
+          en la rehabilitación y desarrollo preventivo para los más pequeños.
+          Estamos construyendo algo innovador y grande.
         author: Stephanie Guerrero
         author_desc: Especialista en Terapia Ocupacional y Crianza
       - author: Cinthya Guerrón
