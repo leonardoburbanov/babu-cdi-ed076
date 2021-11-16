@@ -9,6 +9,7 @@ export default class SectionReviews extends React.Component {
         const avatar = _.get(review, 'avatar');
         const avatarAlt = _.get(review, 'avatar_alt');
         const author = _.get(review, 'author');
+        const author = _.get(review, 'author');
         
         return (
             <blockquote key={index} className="cell review">
