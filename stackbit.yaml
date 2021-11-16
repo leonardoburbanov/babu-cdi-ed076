@@ -791,6 +791,8 @@ models:
         type: string
         label: Author Desc
         description: Desc
+        default: Desc
+        required: true
   section_contact:
     type: object
     label: Contact Section
