@@ -114,6 +114,7 @@ sections:
           La familia es la clave en cualquier intervención terapéutica. Cuidamos
           que todos los involucrados apoyen en el desarrollo del bebé y del
           infante.
+        author_desc: HOLA
       - author: >-
           Gabriela Miranda - Especialista en Canoterapia, Terapia Ocupacional y
           Gestión Clínica Infantil
