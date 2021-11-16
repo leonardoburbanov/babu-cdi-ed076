@@ -120,8 +120,9 @@ sections:
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Apoyamos en rehabilitación a nuestros niños utilizando metodologías
+          modernas y reconocidas. Estamos innovando en los tratamientos desde la
+          diversión y el amor.
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
