@@ -19,6 +19,7 @@ export default class SectionReviews extends React.Component {
                         {avatar && <img className="review-avatar" src={withPrefix(avatar)} alt={avatarAlt} />}
                         {author && <cite className="review-author">{author}</cite>}
                     </footer>
+                    {author_desc && <cite className="review-author">{author_desc}</cite>}
                 </div>
             </blockquote>
         );
