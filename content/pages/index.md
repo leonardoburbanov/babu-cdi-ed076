@@ -111,9 +111,9 @@ sections:
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          La familia es la clave en cualquier intervención terapéutica. Cuidamos
+          que todos los involucrados apoyen en el desarrollo del bebé y del
+          infante.
       - author: >-
           Gabriela Miranda - Especialista en Canoterapia, Terapia Ocupacional y
           Gestión Clínica Infantil
