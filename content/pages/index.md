@@ -13,6 +13,14 @@ sections:
         url: >-
           https://api.whatsapp.com/send/?phone=5930984140004&text=%C2%A1Hola+Babu!,+%20quisiera+contratar+uno+de+sus+servicios&app_absent=0
         style: primary
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
   - section_id: features
     type: section_features
     background: gray
