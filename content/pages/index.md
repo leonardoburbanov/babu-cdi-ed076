@@ -134,6 +134,11 @@ sections:
     type: section_posts
     background: gray
     title: Últimos artículos
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
