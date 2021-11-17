@@ -146,7 +146,7 @@ sections:
         icon_position: left
         new_window: false
         no_follow: false
-      - label: Mapa en Google Maps
+      - label: 'Ver ubicación en '
         url: lorem-ipsum
         style: secondary
         has_icon: false
