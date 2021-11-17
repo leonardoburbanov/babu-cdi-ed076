@@ -170,7 +170,7 @@ sections:
     type: section_cta
     contect: |
       asdfadf
-    content: "###### Dirección: Av. 6 de Diciembre y Luis Cordero\n\n###### Telf.\_ (+593) 098 414 0004\n\n######\n"
+    content: "#### Edificio Novus\n\n###### Dirección: Av. 6 de Diciembre y Luis Cordero\n\n###### Telf.\_ (+593) 098 414 0004\n\n######\n"
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
