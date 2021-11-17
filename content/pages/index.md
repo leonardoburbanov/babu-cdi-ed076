@@ -17,7 +17,7 @@ sections:
         icon: arrow-right
         icon_position: right
       - label: Ubicación
-        url: call-to-map
+        url: '#call-to-map'
         style: secondary
         has_icon: false
         icon: arrow-left
