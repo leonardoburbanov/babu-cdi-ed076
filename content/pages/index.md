@@ -88,7 +88,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Terapia con perritos
-        image: /images/Canoterapia - Foto 2.png
+        image: /images/Canoterapia - Foto 2-e5ef9b95.png
         image_alt: App user profile preview
         content: >
           También conocida como canoterapia, esta práctica corrige problemas de
