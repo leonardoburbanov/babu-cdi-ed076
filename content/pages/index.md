@@ -121,7 +121,7 @@ sections:
             icon_position: right
             new_window: true
       - title: Day to day
-        image: /images/Day to Day - Foto 1.png
+        image: /images/Day to Day - Foto 1-d01c4603.png
         image_alt: App user profile preview
         content: >
           Un espacio dedicado al cuidado de tu peque mientras tu trabajas. 4
