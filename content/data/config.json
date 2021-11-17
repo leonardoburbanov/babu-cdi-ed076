@@ -48,11 +48,6 @@
                 "title": "Empresa",
                 "nav_links": [
                     {
-                        "label": "Sobre nosotras",
-                        "url": "/about",
-                        "style": "link"
-                    },
-                    {
                         "label": "Blog",
                         "url": "/blog",
                         "style": "link"
