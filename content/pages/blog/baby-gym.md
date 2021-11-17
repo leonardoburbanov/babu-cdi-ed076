@@ -5,7 +5,7 @@ author: content/data/authors/stephanie-guerrero.yaml
 date: '2020-04-22'
 thumb_image: /images/Corgi 2.jpg
 thumb_image_alt: People in a conference room
-image: images/9.jpg
+image: /images/Corgi 2.jpg
 image_alt: People in a conference room
 seo:
   title: The Advantages and Disadvantages of Working from Home
