@@ -148,7 +148,7 @@ sections:
     title: Últimos artículos
   - section_id: call-to-map
     title: Contacto
-    subtitle: "Edificio Novus, Quito (Centro Norte), EcuadorDirección: Av. 6 de Diciembre y Luis Cordero\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Telf.\_ (+593) 098 414 0004"
+    subtitle: Edificio Novus
     actions:
       - label: Contactar por Whatsapp
         url: >-
