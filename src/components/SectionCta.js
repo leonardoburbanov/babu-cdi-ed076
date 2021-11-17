@@ -19,6 +19,7 @@ export default class SectionCta extends React.Component {
                     <div className="grid">
                         <div className="cell block-content">
                             {title && <h2 className="block-title">{title}</h2>}
+                            {subtitle && <p className="block-copy">{htmlToReact(subtitle)}</p>}
                             {markdownify(content)}
                         </div>
                         {actions && (
