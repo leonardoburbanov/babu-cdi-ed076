@@ -69,7 +69,7 @@ sections:
           neurológico. ¡Juegan y se ponen fuertes!
         actions:
           - label: Saber más
-            url: /features
+            url: /blog/baby-gym
             style: secondary
             has_icon: true
             icon: arrow-right
