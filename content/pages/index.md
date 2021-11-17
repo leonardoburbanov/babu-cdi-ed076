@@ -146,7 +146,7 @@ sections:
         icon_position: left
         new_window: true
         no_follow: false
-      - label: Ver en Whatsapp
+      - label: Contactar por Whatsapp
         url: lorem-ipsum
         style: secondary
         has_icon: false
