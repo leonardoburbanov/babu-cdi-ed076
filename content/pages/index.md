@@ -117,7 +117,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Terapia con perritos
+      - title: Day to day
         image: /images/Canoterapia - Foto 2.png
         image_alt: App user profile preview
         content: >
