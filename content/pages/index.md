@@ -106,10 +106,12 @@ sections:
       - title: Terapia y cuidado a domicilio
         image: /images/Babu a domicilio - Foto 1.png
         image_alt: App user profile preview
-        content: |
+        content: >
           ¿No te queda tiempo para ir a Babu? ¿Estás muy lejos?
 
-          Babu va hacia ti. Terapia a domicilio en la ciudad de Quito.
+
+          Babu va hacia ti. Terapia y cuidado para tu peque a domicilio en la
+          ciudad de Quito.
         actions:
           - label: Saber más
             url: /features
