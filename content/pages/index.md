@@ -90,7 +90,7 @@ sections:
       - title: Terapia con perritos
         image: /images/Canoterapia - Foto 2.png
         image_alt: App user profile preview
-        content: >+
+        content: >
           También conocida como canoterapia, esta práctica corrige problemas de
           aprendizaje y es una herramienta para mejorar la motricidad fina y
           gruesa de los bebés y niños. Nuestros perritos ayudan a generar
@@ -103,7 +103,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Terapia del lenguaje
+      - title: Terapia a domicilio
         image: /images/Terapia del lenguaje - Foto 1.png
         image_alt: App user profile preview
         content: >
