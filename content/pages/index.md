@@ -9,7 +9,7 @@ sections:
     content: |
       Transformamos la vida de tu bebé y tu vida.
     actions:
-      - label: Saber más
+      - label: Contactar por Whatsapp
         url: /features
         style: primary
   - section_id: features
