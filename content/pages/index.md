@@ -214,7 +214,7 @@ sections:
 
       ######
 seo:
-  title: Stackbit Azimuth Theme
+  title: Babu - Estimulación temprana
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
