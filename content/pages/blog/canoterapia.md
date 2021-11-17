@@ -6,7 +6,7 @@ excerpt: >-
 author: content/data/authors/gabriela-miranda.yaml
 date: '2019-03-24'
 thumb_image: /images/Canoterapia - Foto Post.jpg
-image: images/11.jpg
+image: /images/Canoterapia - Foto Post.jpg
 seo:
   title: How Our Design Team Collaborates
   description: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
