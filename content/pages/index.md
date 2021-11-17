@@ -130,7 +130,7 @@ sections:
 
           Incluye: Hidroterapia + Talleres + Baby Gym
         actions:
-          - label: Saber más
+          - label: Contactar por Whatsapp
             url: >-
               https://api.whatsapp.com/send/?phone=5930984140004&text=¡Hola+Babu!,+me+interesa+su+servicio+Day+to+Day&app_absent=0
             style: secondary
