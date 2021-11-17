@@ -113,7 +113,7 @@ sections:
           Babu va hacia ti. Terapia y cuidado para tu peque a domicilio en la
           ciudad de Quito.
         actions:
-          - label: Saber más
+          - label: Contactar por Whatsapp
             url: /features
             style: secondary
             has_icon: true
