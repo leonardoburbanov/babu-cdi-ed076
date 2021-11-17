@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/Papá y bebé astronauta - Foto 1-cd922613.png
+    image: '/images/Mamá, bebé y cohete - Foto 1.png'
     image_alt: App preview
     title: Estimulación temprana y desarrollo integral para tu peque
     content: |
