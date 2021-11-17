@@ -148,7 +148,7 @@ sections:
         new_window: true
         no_follow: false
       - label: Ubicación en Google Maps
-        url: lorem-ipsum
+        url: 'https://maps.app.goo.gl/eZEdeWa25nxFgppN8'
         style: secondary
         has_icon: false
         icon: arrow-right
