@@ -141,7 +141,7 @@ sections:
       - label: Contactar por Whatsapp
         url: lorem-ipsum
         style: primary
-        has_icon: false
+        has_icon: true
         icon: arrow-left
         icon_position: left
         new_window: false
