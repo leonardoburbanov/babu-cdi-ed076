@@ -133,7 +133,7 @@ sections:
           - label: Contactar por Whatsapp
             url: >-
               https://api.whatsapp.com/send/?phone=5930984140004&text=¡Hola+Babu!,+me+interesa+su+servicio+Day+to+Day&app_absent=0
-            style: secondary
+            style: primary
             has_icon: false
             icon: arrow-right
             icon_position: right
