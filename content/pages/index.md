@@ -148,7 +148,7 @@ sections:
         no_follow: false
       - label: Ver mapa en Google Maps
         url: lorem-ipsum
-        style: primary
+        style: secondary
         has_icon: false
         icon: arrow-right
         icon_position: left
