@@ -104,6 +104,6 @@ Como hemos mencionados, estar en un entorno acuático permite fomentar la autoco
 
 ### Promueve la recreación y la diversión
 
-La hidroterapia para bebés es una excusa perfecta para que los niños aprendan a relacionar el agua con la diversión. Tanto padres como hijos pueden compartir y vivir experiencias gratas, ya que hay decenas de actividades para [disfrutar el agua](https://mejorconsalud.as.com/la-natacion-ejercicio-completo-salud/).
+La hidroterapia para bebés es una excusa perfecta para que los niños aprendan a relacionar el agua con la diversión. Tanto padres como hijos pueden compartir y vivir experiencias gratas, ya que hay decenas de actividades para disfrutar el agua.
 
 En resumen, la hidroterapia agrupa actividades interesantes para fomentar el desarrollo integral de los bebés hasta sus cuatro años. Además, es ideal para fortalecer el vínculo familiar y la autoestima. ¡Disfrútala con tu hijo!
