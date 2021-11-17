@@ -13,6 +13,7 @@ sections:
         url: >-
           https://api.whatsapp.com/send/?phone=5930984140004&text=%C2%A1Hola+Babu!,+%20quisiera+contratar+uno+de+sus+servicios&app_absent=0
         style: primary
+        has_icon: true
       - label: Ubicación en Google Maps
         url: lorem-ipsum
         style: secondary
