@@ -170,6 +170,8 @@ sections:
     type: section_cta
     contect: |
       asdfadf
+    content: |
+      adfadsfadf
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
