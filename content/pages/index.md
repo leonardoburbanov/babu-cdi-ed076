@@ -124,7 +124,15 @@ sections:
           Un espacio dedicado al cuidado de tu peque mientras tu trabajas. 4
           horas de apoyo a esos papás que buscan cuidado de calidad y educación
           intensiva para su hija/o. Incluye: Hidroterapia + Talleres + Baby Gym
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
   - section_id: reviews
     type: section_reviews
     background: white
