@@ -82,7 +82,7 @@ sections:
           terapia del lenguaje es crucial en los primeros meses y años.
         actions:
           - label: Saber más
-            url: /features
+            url: /blog/terapia-lenguaje
             style: secondary
             has_icon: true
             icon: arrow-right
