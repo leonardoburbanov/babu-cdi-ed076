@@ -135,7 +135,7 @@ sections:
     background: gray
     title: Últimos artículos
   - section_id: call-to-map
-    title: lorem-ipsum
+    title: Contacto
     subtitle: lorem-ipsum
     actions:
       - label: lorem-ipsum
