@@ -171,7 +171,7 @@ sections:
     contect: |
       asdfadf
     content: |
-      #### **Edificio Novus **(Dentro del edificio)
+      #### Edificio Novus (Dentro del edificio)
 
       **Dirección:** Av. 6 de Diciembre y Luis Cordero
 
