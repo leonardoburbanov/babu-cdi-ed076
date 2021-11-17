@@ -3,7 +3,7 @@ title: Canoterapia - Terapia con perritos
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
-author: content/data/authors/grabriela-doe.yaml
+author: content/data/authors/grabriela-miranda.yaml
 date: '2019-03-24'
 thumb_image: /images/Canoterapia - Foto Post.jpg
 image: images/11.jpg
