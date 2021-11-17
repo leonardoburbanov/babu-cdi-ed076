@@ -11,6 +11,7 @@ export default class SectionCta extends React.Component {
         const title = _.get(section, 'title');
         const subtitle = _.get(section, 'subtitle');
         const actions = _.get(section, 'actions');
+        const content = _.get(section, 'content');
 
         return (
             <section id={sectionId} className="block cta-block bg-accent outer">
