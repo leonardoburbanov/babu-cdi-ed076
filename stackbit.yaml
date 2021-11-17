@@ -484,6 +484,7 @@ models:
         hidden: true
       - name: contect
         type: string
+        label: Content
     labelField: title
   section_faq:
     type: object
