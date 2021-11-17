@@ -134,7 +134,7 @@ sections:
     type: section_posts
     background: gray
     title: Últimos artículos
-  - section_id: lorem-ipsum
+  - section_id: call-to-map
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions:
