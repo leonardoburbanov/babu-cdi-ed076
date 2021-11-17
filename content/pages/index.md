@@ -136,7 +136,7 @@ sections:
     title: Últimos artículos
   - section_id: call-to-map
     title: Contacto
-    subtitle: lorem-ipsum
+    subtitle: Edificio Novus
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
