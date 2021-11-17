@@ -1,5 +1,5 @@
 ---
-title: 'Baby Gym: Terapia física y ocupacional'
+title: 'Canoterapia: Terapia con perritos'
 excerpt: ¡Movimiento! + ¡Neurodesarrollo! + ¡Rehabilitación! + ¡Juegos!
 author: content/data/authors/stephanie-guerrero.yaml
 date: '2020-04-22'
