@@ -482,6 +482,8 @@ models:
         description: The type of the object
         const: section_cta
         hidden: true
+      - name: ''
+        type: string
     labelField: title
   section_faq:
     type: object
