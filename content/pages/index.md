@@ -136,7 +136,7 @@ sections:
     title: Últimos artículos
   - section_id: call-to-map
     title: Contacto
-    subtitle: "Edificio Novus,\_Quito (Centro Norte), Ecuador"
+    subtitle: "Edificio Novus,\_Quito (Centro Norte), EcuadorAv. 6 de Diciembre y Luis Cordero, diagonal al hospital Baca Ortiz Dentro del edificio)"
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
