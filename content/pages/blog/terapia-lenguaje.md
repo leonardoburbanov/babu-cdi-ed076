@@ -1,8 +1,5 @@
 ---
 title: Terapia del Lenguaje
-subtitle: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
 excerpt: >-
   La comunicación apoya a ahorrar tiempo en tu día a día. ¿Tu bebé se comunica
   contigo?
