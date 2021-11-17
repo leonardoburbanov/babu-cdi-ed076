@@ -54,7 +54,7 @@ sections:
           tu bebé en su recuperación? La hidroterapia es la solución.
         actions:
           - label: Saber más
-            url: /features
+            url: /blog/hidroterapia
             style: secondary
             has_icon: true
             icon: arrow-right
