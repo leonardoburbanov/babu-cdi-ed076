@@ -107,8 +107,8 @@ sections:
         image: /images/Terapia del lenguaje - Foto 1.png
         image_alt: App user profile preview
         content: >
-          ¿A mi bebé le cuesta comunicarse? ¿No me entiende? ¿Qué hago? La
-          terapia del lenguaje es crucial en los primeros meses y años.
+          ¿No te queda tiempo para ir a Babu? Babu va hacia ti. Terapia a
+          domicilio en la ciudad de Quito.
         actions:
           - label: Saber más
             url: /features
