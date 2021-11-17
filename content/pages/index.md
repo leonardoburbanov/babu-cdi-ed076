@@ -148,7 +148,7 @@ sections:
     title: Últimos artículos
   - section_id: call-to-map
     title: Contacto
-    subtitle: 'Quito, Ecuador'
+    subtitle: 'Quito (Centro-Norte), Ecuador'
     actions:
       - label: Contactar por Whatsapp
         url: >-
