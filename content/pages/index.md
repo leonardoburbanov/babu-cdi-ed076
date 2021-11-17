@@ -144,7 +144,7 @@ sections:
         has_icon: false
         icon: arrow-right
         icon_position: left
-        new_window: false
+        new_window: true
         no_follow: false
     type: section_cta
 seo:
