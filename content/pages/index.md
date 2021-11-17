@@ -63,7 +63,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Terapia del lenguaje
-        image: /images/Terapia del lenguaje.jpeg
+        image: /images/Terapia del lenguaje - Foto 1.png
         image_alt: App user profile preview
         content: >
           ¿A mi bebé le cuesta comunicarse? ¿No me entiende? ¿Qué hago? La
