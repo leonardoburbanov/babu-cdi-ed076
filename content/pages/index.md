@@ -24,7 +24,7 @@ sections:
         icon_position: left
         new_window: false
         no_follow: false
-  - section_id: features
+  - section_id: servicios
     type: section_features
     background: gray
     title: Servicios
