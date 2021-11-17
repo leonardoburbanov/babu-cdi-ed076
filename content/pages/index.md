@@ -121,7 +121,7 @@ sections:
         image: /images/Canoterapia - Foto 2.png
         image_alt: App user profile preview
         content: >
-          Un espacio dedicado al cuidado de tu peque mientras tu trabajas. 4 horas de apoyo a esos papás que 
+          Un espacio dedicado al cuidado de tu peque mientras tu trabajas. 4 horas de apoyo a esos papás que buscan 
         actions:
           - label: Saber más
             url: /features
