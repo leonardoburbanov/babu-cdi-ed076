@@ -39,7 +39,7 @@ La Terapia Ocupacional para niños tiene como objetivo lograr la máxima indep
 
 Los terapeutas ocupacionales especializados en infancia atienden a niños y niñas con trastornos asociados a los primeros años de vida, con discapacidades congénitas o adquiridas y con riesgo psicosocial.
 
-El menor puede ser referido a\*\* Terapia Ocupacional\*\* para superar desafíos relacionados con las áreas de autocuidado, productividad, ocio y tiempo libre o por dificultades en componentes del desarrollo sensoriomotores, cognitivos y psicosociales, que pueden interferir en el proceso de aprendizaje (AOTA, 1999).
+El menor puede ser referido a Terapia Ocupacional para superar desafíos relacionados con las áreas de autocuidado, productividad, ocio y tiempo libre o por dificultades en componentes del desarrollo sensoriomotores, cognitivos y psicosociales, que pueden interferir en el proceso de aprendizaje (AOTA, 1999).
 
 ![](https://grados.uemc.es/hs-fs/hubfs/Blog/Im%C3%A1genes/ni%C3%B1a-sindrome-down-jugando.jpg?width=1000\&name=ni%C3%B1a-sindrome-down-jugando.jpg)La Terapia Ocupacional desarrolla intervenciones que se basan en el análisis del comportamiento, de las ocupaciones y el contexto en el que se desarrollan dichas ocupaciones.
 
@@ -51,15 +51,15 @@ De esta forma la terapia ocupacional utiliza herramientas de intervención únic
 
 *   La modificación y adaptación del entorno.
 
-¿Qué objetivos busca la Terapia Ocupacional en la infancia?
+##### ¿Qué objetivos busca la Terapia Ocupacional en la infancia?
 
 El objetivo de la Terapia Ocupacional para niños es que el menor con discapacidad o riesgo de padecerla, desarrolle sus ocupaciones diarias y significativas con la máxima independencia posible, participando activamente en la comunidad. La terapia ocupacional utiliza las actividades de la vida diaria (AVDs), adaptando la tarea y el entorno de forma que el niño o la niña maximice su independencia y participación.
 
 Las actividades diarias que se realizan durante las rutinas son fundamentales ya que proporcionan a los niños múltiples oportunidades para desarrollar y practicar destrezas motoras, sensorias, cognitivas, de comunicación y lenguaje y la socialización.
 
-Las actividades principales son:
+##### Las actividades principales son:
 
-*   Actividades de la vida diaria (AVDs): son aquellas actividades que se realizan para el cuidado del propio cuerpo, básicas para la supervivencia como el aseo, control de esfínteres y uso del inodoro, vestido-desvestido, alimentación, movilidad, cuidado de artículos personales, etc.
+Actividades de la vida diaria (AVDs): son aquellas actividades que se realizan para el cuidado del propio cuerpo, básicas para la supervivencia como el aseo, control de esfínteres y uso del inodoro, vestido-desvestido, alimentación, movilidad, cuidado de artículos personales, etc.
 
 *   Descanso y sueño: actividad imprescindible para el buen funcionamiento del resto de ocupaciones.
 
@@ -71,7 +71,7 @@ Las actividades principales son:
 
 Desde la Terapia Ocupacional no sólo se consideran las ocupaciones y la participación en ellas, también se ocupa de cómo se organiza la participación a través del tiempo y en diferentes ámbitos.
 
-![](https://grados.uemc.es/hs-fs/hubfs/Blog/Im%C3%A1genes/ni%C3%B1o-sindrome-down-colegio.jpg?width=1000\&name=ni%C3%B1o-sindrome-down-colegio.jpg)¿Cuándo un niño o niña y su familia puede necesitar Terapia Ocupacional?
+#### ![](https://grados.uemc.es/hs-fs/hubfs/Blog/Im%C3%A1genes/ni%C3%B1o-sindrome-down-colegio.jpg?width=1000\&name=ni%C3%B1o-sindrome-down-colegio.jpg)¿Cuándo un niño o niña y su familia puede necesitar Terapia Ocupacional?
 
 Los diagnósticos más frecuentes que son tratados desde la Terapia Ocupacional son:
 
@@ -81,9 +81,9 @@ Los diagnósticos más frecuentes que son tratados desde la Terapia Ocupacional 
 
 *   Niños/as en situación de riesgo ambiental: cuando las carencias ambientales pueden dificultar el desarrollo.
 
-Proceso de evaluación de Terapia Ocupacional en la infancia
+##### Proceso de evaluación de Terapia Ocupacional en la infancia
 
-Una característica fundamental del proceso de evaluación e intervención en Terapia Ocupacional en niños es el conocimiento de las\*\* fortalezas del menor y las de su familia\*\*. Trabajar desde las fortalezas ayudará a superar desafíos para realizar actividades significativas.
+Una característica fundamental del proceso de evaluación e intervención en Terapia Ocupacional en niños es el conocimiento de las fortalezas del menor y las de su familia. Trabajar desde las fortalezas ayudará a superar desafíos para realizar actividades significativas.
 
 El proceso de evaluación en Terapia Ocupacional infantil consiste en el conocimiento y análisis de:
 
@@ -113,6 +113,6 @@ El marco de la práctica de la Terapia Ocupacional infantil considera a la perso
 
 En la Terapia Ocupacional para niños el juego es considerado como la ocupacional primaria y fundamental en la infancia. Las interacciones que se dan entre el niño o la niña, la familia y el entorno, determina, en cierta medida, la capacidad para jugar.
 
-Los terapeutas ocupacionales entienden [el juego como la actividad esencial para el desarrollo](https://elpais.com/elpais/2020/08/03/mamas_papas/1596490612\_799884.html). A través del juego se genera la adaptación al entorno y el desarrollo de competencias motoras, cognitivas, comunicativas, sociales y de autocuidado.
+Los terapeutas ocupacionales entienden el juego como la actividad esencial para el desarrollo. A través del juego se genera la adaptación al entorno y el desarrollo de competencias motoras, cognitivas, comunicativas, sociales y de autocuidado.
 
 Los menores con discapacidad tienen dificultades para desarrollar el juego y necesitan más apoyo para jugar. Por todo esto, el juego es el centro de la evaluación e intervención en Terapia Ocupacional, dado que esta actividad es fruto de la motivación intrínseca o motivadora, favorece la concentración, el rendimiento, el bienestar y la participación.
