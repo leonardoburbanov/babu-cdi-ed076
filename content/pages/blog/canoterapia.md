@@ -1,5 +1,5 @@
 ---
-title: How Our Design Team Collaborates
+title: Canoterapia - Terapia con perritos
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
