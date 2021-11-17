@@ -125,7 +125,7 @@ sections:
           horas de apoyo a esos papás que buscan cuidado de calidad y educación
           intensiva para su hija/o. Incluye: Hidroterapia + Talleres + Baby Gym
         actions:
-          - label: lorem-ipsum
+          - label: Saber más
             url: lorem-ipsum
             style: link
             has_icon: false
