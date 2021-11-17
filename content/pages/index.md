@@ -126,7 +126,7 @@ sections:
         content: >
           Un espacio dedicado al cuidado de tu peque mientras tu trabajas. 4
           horas de apoyo a esos papás que buscan cuidado de calidad y educación
-          intensiva para su hija/o. 
+          intensiva para su hija o hijo.
 
 
           Incluye: Hidroterapia + Talleres + Baby Gym
