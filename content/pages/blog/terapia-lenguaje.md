@@ -10,7 +10,7 @@ author: content/data/authors/cinthya-guerron.yaml
 date: '2019-03-27'
 thumb_image: /images/Mamá.jpg
 thumb_image_alt: Business people in a meeting
-image: images/10.jpg
+image: /images/Mamá.jpg
 image_alt: Business people in a meeting
 seo:
   title: A Guide To User Journey Mapping
