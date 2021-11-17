@@ -215,7 +215,7 @@ sections:
       ######
 seo:
   title: Babu - Estimulación temprana
-  description: The preview of the Azimuth theme
+  description: E
   extra:
     - name: 'og:type'
       value: website
