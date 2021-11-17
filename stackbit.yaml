@@ -485,6 +485,7 @@ models:
       - name: contect
         type: string
         label: Content
+        description: Content section
     labelField: title
   section_faq:
     type: object
