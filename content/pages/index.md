@@ -98,7 +98,7 @@ sections:
           capaces de desarrollar cualquier actividad.
         actions:
           - label: Saber más
-            url: /features
+            url: /blog/canoterapia
             style: secondary
             has_icon: true
             icon: arrow-right
