@@ -96,8 +96,19 @@ sections:
           gruesa de los bebés y niños. Nuestros perritos ayudan a generar
           confianza en los niños más pequeños, el objetivo es que se sientan
           capaces de desarrollar cualquier actividad.
-
-
+        actions:
+          - label: Saber más
+            url: /features
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+      - title: Terapia del lenguaje
+        image: /images/Terapia del lenguaje - Foto 1.png
+        image_alt: App user profile preview
+        content: >
+          ¿A mi bebé le cuesta comunicarse? ¿No me entiende? ¿Qué hago? La
+          terapia del lenguaje es crucial en los primeros meses y años.
         actions:
           - label: Saber más
             url: /features
