@@ -134,25 +134,6 @@ sections:
     type: section_posts
     background: gray
     title: Últimos artículos
-  - section_id: lorem-ipsum
-    title: Contacto
-    subtitle: ¿Dónde estamos ubicados?
-    content: >
-      ## Edificio Novus
-
-
-      ##### Centro Norte, Quito, Ecuador
-
-
-      Av. 6 de Diciembre y Luis Cordero, diagonal al hospital Baca Ortiz (Dentro
-      del edificio)
-    background: gray
-    form_id: lorem-ipsum
-    form_action: Goo
-    hide_labels: false
-    form_fields: []
-    submit_label: Ver en Google Maps
-    type: section_contact
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
