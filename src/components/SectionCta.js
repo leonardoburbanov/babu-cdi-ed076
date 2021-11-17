@@ -20,7 +20,7 @@ export default class SectionCta extends React.Component {
                         <div className="cell block-content">
                             {title && <h2 className="block-title">{title}</h2>}
                             {subtitle && <p className="block-copy">{htmlToReact(subtitle)}</p>}
-                            {subtitle && <p className="block-copy">{htmlToReact(subtitle)}</p>}
+                            {content && <p className="block-copy">{htmlToReact(subtitle)}</p>}
                         </div>
                         {actions && (
                             <div className="cell block-buttons">
