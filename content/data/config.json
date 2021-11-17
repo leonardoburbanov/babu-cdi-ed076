@@ -126,7 +126,8 @@
             {
                 "label": "Términos del servicio",
                 "url": "/terms-of-service",
-                "style": "link"
+                "style": "link",
+                "no_follow": true
             },
             {
                 "label": "Política de privacidad",
