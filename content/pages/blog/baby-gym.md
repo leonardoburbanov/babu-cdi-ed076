@@ -1,7 +1,7 @@
 ---
 title: 'Baby Gym: Terapia física y ocupacional'
 excerpt: ¡Movimiento! + ¡Neurodesarrollo! + ¡Rehabilitación! + ¡Juegos!
-author: content/data/authors/cinthyayaml
+author: content/data/authors/stephanie-gurrero.yaml
 date: '2020-04-22'
 thumb_image: /images/Corgi 2.jpg
 thumb_image_alt: People in a conference room
