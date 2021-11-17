@@ -146,7 +146,7 @@ sections:
         icon_position: left
         new_window: true
         no_follow: false
-      - label: Whatsapp
+      - label: Ir a Whatsapp
         url: lorem-ipsum
         style: secondary
         has_icon: false
