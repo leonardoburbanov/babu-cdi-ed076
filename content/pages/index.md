@@ -119,6 +119,7 @@ sections:
             has_icon: false
             icon: arrow-right
             icon_position: right
+            new_window: true
       - title: Day to day
         image: /images/Day to Day - Foto 1.png
         image_alt: App user profile preview
