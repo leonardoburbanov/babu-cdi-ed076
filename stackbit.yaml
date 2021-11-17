@@ -482,7 +482,7 @@ models:
         description: The type of the object
         const: section_cta
         hidden: true
-      - name: contect
+      - name: content
         type: markdown
         label: Content
         description: Content section
