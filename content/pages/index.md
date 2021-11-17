@@ -168,6 +168,8 @@ sections:
         new_window: true
         no_follow: false
     type: section_cta
+    contect: |
+      asdfadf
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
