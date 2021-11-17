@@ -48,11 +48,6 @@
                 "title": "Empresa",
                 "nav_links": [
                     {
-                        "label": "Blog",
-                        "url": "/blog",
-                        "style": "link"
-                    },
-                    {
                         "label": "Agendar una cita",
                         "url": "/signup",
                         "style": "link"
@@ -60,6 +55,11 @@
                     {
                         "label": "Contacto",
                         "url": "/contact",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Blog",
+                        "url": "/blog",
                         "style": "link"
                     }
                 ]
