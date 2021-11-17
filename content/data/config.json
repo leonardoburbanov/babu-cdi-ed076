@@ -104,7 +104,7 @@
                 ]
             }
         ],
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Términos del servicio",
