@@ -10,7 +10,8 @@ sections:
       Transformamos la vida de tu bebé y tu vida.
     actions:
       - label: Contactar por Whatsapp
-        url: /features
+        url: >-
+          https://api.whatsapp.com/send/?phone=5930984140004&text=%C2%A1Hola+Babu!,+%20quisiera+contratar+uno+de+sus+servicios&app_absent=0
         style: primary
   - section_id: features
     type: section_features
