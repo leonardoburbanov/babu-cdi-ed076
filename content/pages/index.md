@@ -214,7 +214,7 @@ sections:
 
       ######
 seo:
-  title: Babu - Estimulación temprana
+  title: Babu - Estimulación temprana - Quito
   description: 
   extra:
     - name: 'og:type'
