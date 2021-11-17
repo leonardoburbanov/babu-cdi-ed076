@@ -103,7 +103,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Terapia a domicilio
+      - title: Terapia y cuidado a domicilio
         image: /images/Babu a domicilio - Foto 1.png
         image_alt: App user profile preview
         content: |
