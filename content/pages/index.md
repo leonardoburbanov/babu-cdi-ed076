@@ -215,7 +215,7 @@ sections:
       ######
 seo:
   title: Babu - Estimulación temprana - Quito
-  description: 
+  description: Estimulación temprana y desarrollo integral para bebés y niños
   extra:
     - name: 'og:type'
       value: website
