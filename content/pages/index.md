@@ -215,7 +215,7 @@ sections:
       ######
 seo:
   title: Babu - Estimulación temprana
-  description: E
+  description: 
   extra:
     - name: 'og:type'
       value: website
