@@ -102,23 +102,6 @@
                         "no_follow": false
                     }
                 ]
-            },
-            {
-                "type": "footer_form",
-                "title": "Promociones",
-                "content": "Tenemos promociones todos los meses. Déjanos tu email para agregarte a los grupos exclusivos donde las podrás recibir.\n",
-                "form_id": "subscribeForm",
-                "hide_labels": true,
-                "form_fields": [
-                    {
-                        "input_type": "email",
-                        "name": "email",
-                        "label": "Email",
-                        "default_value": "Dirección de email",
-                        "is_required": true
-                    }
-                ],
-                "submit_label": "Enviar"
             }
         ],
         "has_nav": true,
