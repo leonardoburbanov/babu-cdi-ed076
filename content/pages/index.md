@@ -126,7 +126,8 @@ sections:
           intensiva para su hija/o. Incluye: Hidroterapia + Talleres + Baby Gym
         actions:
           - label: Saber más
-            url: lorem-ipsum
+            url: >-
+              https://api.whatsapp.com/send/?phone=5930984140004&text=¡Hola+Babu!,+me+interesa+su+servicio+Day+to+Day&app_absent=0
             style: secondary
             has_icon: true
             icon: arrow-right
