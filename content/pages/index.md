@@ -171,11 +171,11 @@ sections:
     contect: |
       asdfadf
     content: |
-      #### Edificio Novus
+      #### **Edificio Novus**
 
-      ###### \*\*Dirección:\*\* Av. 6 de Diciembre y Luis Cordero
+      ###### **Dirección:** Av. 6 de Diciembre y Luis Cordero
 
-      ###### \*\*Telf.\*\* (+593) 098 414 0004
+      ###### **Telf.** (+593) 098 414 0004
 
       ######
 seo:
