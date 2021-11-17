@@ -6,7 +6,7 @@ subtitle: >-
 excerpt: >-
   La comunicación apoya a ahorrar tiempo en tu día a día. ¿Tu bebé se comunica
   contigo?
-author: content/data/authors/jane-doe.yaml
+author: content/data/authors/cinthya-guerron.yaml
 date: '2019-03-27'
 thumb_image: /images/Mamá.jpg
 thumb_image_alt: Business people in a meeting
