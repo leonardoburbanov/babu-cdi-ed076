@@ -106,9 +106,10 @@ sections:
       - title: Terapia a domicilio
         image: /images/Terapia del lenguaje - Foto 1.png
         image_alt: App user profile preview
-        content: >
-          ¿No te queda tiempo para ir a Babu? Babu va hacia ti. Terapia a
-          domicilio en la ciudad de Quito.
+        content: |
+          ¿No te queda tiempo para ir a Babu? ¿Estás muy lejos?
+
+          Babu va hacia ti. Terapia a domicilio en la ciudad de Quito.
         actions:
           - label: Saber más
             url: /features
