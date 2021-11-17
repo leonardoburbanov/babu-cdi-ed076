@@ -1,7 +1,7 @@
 ---
 title: Hidroterapia
 subtitle: ¡El agua y los bebés se llevan más que bien!
-author: content/data/authors/jane-doe.yaml
+author: content/data/authors/cinthya-guerron.yaml
 excerpt: ¡Los bebés y el agua se llevan más que bien!
 date: '2021-08-08'
 thumb_image: /images/Tortuga.svg
