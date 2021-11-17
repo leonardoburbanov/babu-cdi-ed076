@@ -37,24 +37,25 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Terapia de Lenguaje es la especialidad dentro del campo de la rehabilitación que se encarga de la evaluación , diagnóstico y tratamiento de las alteraciones en voz, audición, habla, lenguaje, aprendizaje  y los aspectos de la motricidad oral que afectan durante el desarrollo del niño.
+Aprovechar la sensibilidad de los perros para acompañar en la rehabilitación de las personas con discapacidades físicas, mentales y con problemas emocionales engloba el concepto de la canoterapia. Esta actividad demanda de varios procesos metódicos que se inician con la selección de los canes.
 
-Trastornos del habla y del lenguaje:
+Según Fabiola Jiménez, representante de Canoterapia Ecuador, hay dos líneas muy marcadas de adiestramiento: los perros de terapia y los perros de servicio. “Ambos pasan por una selección desde que son cachorros para conocer su comportamiento, el cual marcará el resto de la vida del animal”, explica.
 
-*   **Los trastornos de articulación**, dificultad al producir sonidos en las sílabas y al emitir palabras de forma incorrecta de modo que otras personas no pueden entender lo que la persona está diciendo.
+Para ella, primero se busca a los cachorros en la camada y se les aplica varias pruebas que determinarán su actitud frente al manejo de una asistencia. La selección se realiza a las siete semanas de nacido el can, mientras que a la semana siguiente se le retira de la camada para que empiece su etapa de entrenamiento.
 
-<!---->
+Los perros son sometidos a procesos de sensibilización, a que se acostumbren a ser tocados y los llamen, se le enseña a controlar su esfínter, a escuchar ruidos y movimientos extraños. Se refuerza su aprendizaje con caricias, palabras agradables y con premios de comida. El entrenamiento de estos canes dura dos años.
 
-*   **Trastornos con la fluidez del habla con problemas que incluyen tartamudez**, una condición donde el habla se interrumpe debido a pausas anormales, repeticiones o sonidos prolongados y sílabas.
+## &#xA;Tips de terapia
 
-<!---->
+*   Desarrolla el físico. Esta terapia ayuda a estimular el desarrollo muscular a través del ejercicio.
 
-*   **Trastornos de la voz, incluye problemas con el tono, el volumen o la calidad de la voz,** estos tipos de trastornos también pueden causar dolor al niño o hacerle sentir incómodo cuando está hablando.
+*   Mejora las defensas. La terapia le permitirá estimular el sistema inmunológico, para su salud.
 
-<!---->
+*   Fortalece relaciones. La terapia le permite crear vínculos afectivos con las
+    demás personas.
 
-*   **Disfagia oral/trastornos de la alimentación**, incluye dificultades al comer o al tragar, niños  con uso de sonda nasogástrica.
+*   Grupo con impacto. Es útil para personas con síndrome de Down, autismo, problemas de lenguaje, etc.
 
-<!---->
+*   Alivia tensiones. Muy útil para combatir el estrés y depresión. La convivencia con canes tranquiliza.
 
-*   **Trastornos del lenguaje**, se refiere a los trastornos que afectan todos los niveles  del lenguaje, esta terapia esta enfocada para niños con autismo, niños con asperger, niños con trastornos del lenguaje y trastornos de desarrollo.
+*   Asesoría individual. Previo a realizar la terapia, evalúe los beneficios que busca con el tratamiento.
