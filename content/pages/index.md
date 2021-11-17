@@ -104,7 +104,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Terapia a domicilio
-        image: /images/Terapia del lenguaje - Foto 1.png
+        image: /images/Babu a domicilio - Foto 1.png
         image_alt: App user profile preview
         content: |
           ¿No te queda tiempo para ir a Babu? ¿Estás muy lejos?
