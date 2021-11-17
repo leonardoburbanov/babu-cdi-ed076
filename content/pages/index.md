@@ -170,7 +170,7 @@ sections:
     type: section_cta
     contect: |
       asdfadf
-    content: "Dirección: Av. 6 de Diciembre y Luis Cordero\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_\n\nTelf.\_ (+593) 098 414 0004\n\nQuito, Ecuador\n"
+    content: "##### Dirección: Av. 6 de Diciembre y Luis Cordero\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_\n\n##### Telf.\_ (+593) 098 414 0004\n\n##### Quito, Ecuador\n"
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
