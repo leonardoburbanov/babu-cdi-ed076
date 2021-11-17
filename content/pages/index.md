@@ -136,7 +136,7 @@ sections:
     title: Últimos artículos
   - section_id: call-to-map
     title: Contacto
-    subtitle: Edificio Novus
+    subtitle: "Edificio Novus,\_Quito (Centro Norte), Ecuador"
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
