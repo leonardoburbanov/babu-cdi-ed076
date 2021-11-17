@@ -483,7 +483,7 @@ models:
         const: section_cta
         hidden: true
       - name: contect
-        type: string
+        type: markdown
         label: Content
         description: Content section
     labelField: title
