@@ -121,11 +121,7 @@ sections:
         image: /images/Canoterapia - Foto 2.png
         image_alt: App user profile preview
         content: >
-          También conocida como canoterapia, esta práctica corrige problemas de
-          aprendizaje y es una herramienta para mejorar la motricidad fina y
-          gruesa de los bebés y niños. Nuestros perritos ayudan a generar
-          confianza en los niños más pequeños, el objetivo es que se sientan
-          capaces de desarrollar cualquier actividad.
+          Un espacio dedicado al cuidado de tu peque mientras tu trabajas. 4 horas de apoyo 
         actions:
           - label: Saber más
             url: /features
