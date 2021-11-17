@@ -40,7 +40,7 @@ sections:
           metodologías confiables basadas en el juego, respeto y amor. Ven con
           tu bebé y vive una experiencia de aprendizaje y apoyo.
         actions:
-          - label: Membresías
+          - label: Ver Membresías
             url: /features
             style: primary
             has_icon: false
