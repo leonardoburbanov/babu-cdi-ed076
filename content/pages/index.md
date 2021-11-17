@@ -148,7 +148,7 @@ sections:
     title: Últimos artículos
   - section_id: call-to-map
     title: Contacto
-    subtitle: Edificio Novus
+    subtitle: 'Quito, Ecuador'
     actions:
       - label: Contactar por Whatsapp
         url: >-
