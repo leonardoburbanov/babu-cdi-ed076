@@ -1,8 +1,8 @@
 ---
 title: Canoterapia - Terapia con perritos
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  Nuestros perritos ayudan a generar confianza en los niños más pequeños, el
+  objetivo es que se sientan capaces de desarrollar cualquier actividad.
 author: content/data/authors/gabriela-miranda.yaml
 date: '2019-03-24'
 thumb_image: /images/Canoterapia - Foto Post.jpg
