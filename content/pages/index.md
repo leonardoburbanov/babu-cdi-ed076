@@ -15,6 +15,7 @@ sections:
         style: primary
         has_icon: true
         icon: arrow-right
+        icon_position: right
       - label: Ubicación en Google Maps
         url: lorem-ipsum
         style: secondary
