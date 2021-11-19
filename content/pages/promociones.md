@@ -10,7 +10,7 @@ sections:
         subtitle: Del 16 al 20 de Noviembre 2021
         price: Evaluaciones Gratis
         actions:
-          - label: Obtener promoción!
+          - label: ¡Obtener promoción!
             url: /signup
             style: secondary
         details: |
