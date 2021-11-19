@@ -1,6 +1,6 @@
 ---
 title: Agendar evaluación
-subtitle: ¡!
+subtitle: ¡Agenda ahora y aprovecha la promoción del mes!
 image: images/11.jpg
 image_alt: Office desk top view
 seo:
