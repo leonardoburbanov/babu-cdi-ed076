@@ -10,7 +10,7 @@ sections:
       domicilio"
     pricing_plans:
       - title: Star
-        subtitle: For small businesses
+        subtitle: Terapia focalizada
         price: $5/m
         details: |-
           * Lorem ipsum dolor sit amet
