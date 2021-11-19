@@ -15,7 +15,7 @@ sections:
         details: |
           *   Evaluación inicial gratuita
           *   Reporte de seguimiento mensual
-          *   Solo una terapia entre:
+          *   **Solo una terapia entre:**
 
           1.  Terapia física
 
