@@ -20,7 +20,7 @@ sections:
         highlight: true
       - title: Semana del Prematuro
         subtitle: Del 16 al 20 de Noviembre 2021
-        price: 15% Descuento
+        price: 15% Descuento en todos los planes
         details: |
           Para niños prematuros
 
