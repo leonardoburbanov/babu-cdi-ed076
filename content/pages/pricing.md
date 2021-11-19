@@ -16,13 +16,14 @@ sections:
           *   Evaluación inicial gratuita
           *   Reporte de seguimiento mensual
           *   Solo una terapia entre:
-              *   Terapia física 
 
-              *   Terapia ocupacional
+          1.  Terapia física
 
-              *   Hidroterapia
+          2.  Terapia ocupacional
 
-              *   Terapia del Lenguaje
+          3.  Hidroterapia
+
+          4.  Terapia del Lenguaje
         actions:
           - label: Comprar ahora
             url: /signup
