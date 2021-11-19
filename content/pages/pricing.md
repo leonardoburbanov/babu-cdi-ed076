@@ -15,6 +15,9 @@ sections:
         details: |
           *   Evaluación inicial gratuita
           *   Reporte de seguimiento mensual
+          *   De lunes a sábado (bajo previo agendamiento)
+          *   Horario de atención: 9AM a 6PM
+          *   Sesiones de 30 mins.
           *   **Escoge solo una terapia:**
 
           1.  Terapia física
@@ -24,12 +27,6 @@ sections:
           3.  Hidroterapia
 
           4.  Terapia del Lenguaje
-
-          De lunes a sábado (bajo previo agendamiento)
-
-          Horario de atención: 9AM a 6PM
-
-          Sesiones de 30 mins.
         actions:
           - label: Comprar ahora
             url: /signup
