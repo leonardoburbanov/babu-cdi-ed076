@@ -47,21 +47,7 @@ sections:
             style: secondary
         highlight: true
     subtitle: ¡Nuestros promociones están aquí!
-  - section_id: faq
-    type: section_faq
-    background: gray
-    title: Preguntas frecuentes
-    subtitle: ¿Quieres saber más detalles sobre nuestros servicios?
-    faq_items:
-      - question: ¿Pregunta 1?
-        answer: |
-          Respuesta 1
-      - question: ¿Pregunta 2?
-        answer: |
-          Respuesta 2
-      - question: ¿Pregunta 3?
-        answer: |
-          Respuesta 3
+
 seo:
   title: Promociones - Babu
   description: Promociones en planes de estimulación temprana
