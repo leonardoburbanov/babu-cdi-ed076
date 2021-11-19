@@ -41,7 +41,7 @@ sections:
       - question: ¿Pregunta 1?
         answer: |
           Respuesta 1
-      - question: Aliquam eget purus ante?
+      - question: ¿Pregunta 2?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
