@@ -32,9 +32,9 @@ sections:
         subtitle: Estimulación temprana
         price: $215/mes
         details: >
-          *   *   Evaluación inicial gratuita*   Reporte de seguimiento
-          mensual*   Terapia física + Terapia ocupacional + Hidroterapia*  
-          Metodología Baby Gym
+          *   Evaluación inicial gratuita\*   Reporte de seguimiento mensual\*  
+          Terapia física + Terapia ocupacional + Hidroterapia\*   Metodología
+          Baby Gym
         highlight: true
         actions:
           - label: "Comprar ahora\_\U0001F525"
