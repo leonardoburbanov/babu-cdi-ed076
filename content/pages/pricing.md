@@ -32,7 +32,7 @@ sections:
           * Nullam sollicitudin ante
         highlight: true
         actions:
-          - label: Order Now
+          - label: Comprar ahora
             url: /signup
             style: primary
       - title: Universe
