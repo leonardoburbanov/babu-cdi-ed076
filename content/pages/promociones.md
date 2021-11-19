@@ -17,6 +17,7 @@ sections:
           *   Para niños prematuros
 
           *   Para niños con problemas de neurodesarrollo
+        highlight: true
       - title: Planet
         subtitle: Estimulación temprana
         price: $215/mes
