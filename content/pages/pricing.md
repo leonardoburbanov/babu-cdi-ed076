@@ -26,6 +26,8 @@ sections:
           4.  Terapia del Lenguaje
 
           De lunes a sábado (bajo previo agendamiento)
+
+          Sesiones de 30 minutos.
         actions:
           - label: Comprar ahora
             url: /signup
