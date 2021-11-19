@@ -49,7 +49,7 @@ sections:
           Respuesta 3
 seo:
   title: Membresías - Babu
-  description: This is the pricing page
+  description: Membresías de estimulación temprana
   extra:
     - name: 'og:type'
       value: website
