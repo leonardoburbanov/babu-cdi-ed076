@@ -49,6 +49,7 @@ sections:
           <!---->
 
           *   De lunes a sábado (bajo agendamiento previo)
+          *   Atención de 9AM a 6PM
           *   Sesiones de 1h.
         highlight: true
         actions:
