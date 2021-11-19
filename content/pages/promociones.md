@@ -18,7 +18,7 @@ sections:
 
           *   Para niños con problemas de neurodesarrollo
         highlight: true
-      - title: Planet
+      - title: Semana del Prematuro
         subtitle: Estimulación temprana
         price: $215/mes
         details: |
