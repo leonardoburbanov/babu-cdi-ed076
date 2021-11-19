@@ -23,7 +23,6 @@ sections:
 
           *   Sesiones de 30 mins.
 
-          \<!---->
 
 
           **Escoge solo una terapia:**
