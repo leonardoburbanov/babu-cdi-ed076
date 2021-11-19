@@ -2,6 +2,15 @@
 title: Agendar evaluación
 subtitle: ¡Agenda ahora y aprovecha la promoción del mes!
 image_alt: Office desk top view
+
+  - section_id: call-to-action
+    type: section_cta
+    title: ¡Agenda tu evaluación ahora!
+    subtitle: Aprovecha las promociones de este mes.
+    actions:
+      - label: Ver promociones
+        url: /signup
+        style: primary
 seo:
   title: Sign Up
   description: This is the sign up page
