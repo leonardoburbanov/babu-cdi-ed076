@@ -4,7 +4,7 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: Promociones
+    title: "Promociones\_\_\U0001F525"
     pricing_plans:
       - title: Star
         subtitle: Terapia focalizada
