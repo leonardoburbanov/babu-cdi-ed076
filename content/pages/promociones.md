@@ -31,7 +31,7 @@ sections:
         actions:
           - label: "¡Obtener promoción! \U0001F525"
             url: /signup
-            style: primary
+            style: secondary
 seo:
   title: Promociones - Babu
   description: Promociones en planes de estimulación temprana
