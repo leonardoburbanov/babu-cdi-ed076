@@ -32,21 +32,6 @@ sections:
           - label: "Comprar Plan Planet \U0001F525"
             url: /signup
             style: primary
-      - title: Universe
-        subtitle: Terapia infantil integral
-        price: $230/mes
-        details: |
-          *
-
-          <!---->
-
-          *   ****
-        actions:
-          - label: Comprar Plan Universe
-            url: /signup
-            style: secondary
-        highlight: true
-    subtitle: ¡Nuestros promociones están aquí!
 
 seo:
   title: Promociones - Babu
