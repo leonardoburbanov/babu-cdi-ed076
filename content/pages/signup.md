@@ -1,7 +1,7 @@
 ---
 title: Agendar evaluación
 subtitle: ¡Agenda ahora y aprovecha la promoción del mes!
-image: images/11.jpg
+image: /images/Baby 2.png
 image_alt: Office desk top view
 seo:
   title: Sign Up
