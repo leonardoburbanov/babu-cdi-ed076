@@ -24,6 +24,8 @@ sections:
           3.  Hidroterapia
 
           4.  Terapia del Lenguaje
+
+          De lunes a sábado (bajo previo agendamiento)
         actions:
           - label: Comprar ahora
             url: /signup
