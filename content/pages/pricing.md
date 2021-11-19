@@ -68,21 +68,21 @@ sections:
         details: |
           *   Evaluación inicial gratuita
           *   Reporte de seguimiento mensual
-          *   **3 terapias por sesión**
-              *   Terapia física
+          *   De lunes a sábado (bajo agendamiento previo)
+          *   Horario de atención: 9AM a 6PM
+          *   Sesiones de 1h.
 
-              *   Terapia ocupacional
+          **3 terapias por sesión**
 
-              *   Hidroterapia
+          1.  Terapia física
 
-          <!---->
+          2.  Terapia ocupacional
+
+          3.  Hidroterapia
 
           *   **+ 1 sesión de Hidroterapia extra**
           *   **+ 2 sesiones de Canoterapia**
           *   **+ 1 sesión de Terapia del Lenguaje**
-          *   De lunes a sábado (bajo agendamiento previo)
-          *   Horario de atención: 9AM a 6PM
-          *   Sesiones de 1h.
         actions:
           - label: Order Now
             url: /signup
