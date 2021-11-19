@@ -63,7 +63,7 @@ sections:
         answer: |
           Respuesta 3
 seo:
-  title: Membresías - Babu
+  title: Promociones - Babu
   description: Membresías de estimulación temprana
   extra:
     - name: 'og:type'
