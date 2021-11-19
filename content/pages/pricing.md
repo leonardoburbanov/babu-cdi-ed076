@@ -36,7 +36,7 @@ sections:
             url: /signup
             style: primary
       - title: Universe
-        subtitle: For very large businesses
+        subtitle: Terapia infantil integral
         price: $149/m
         details: |-
           * Vestibulum non eros quis
