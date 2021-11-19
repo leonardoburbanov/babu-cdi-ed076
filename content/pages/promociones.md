@@ -6,7 +6,7 @@ sections:
     background: gray
     title: "Promociones\_\_\U0001F525"
     pricing_plans:
-      - title: Star
+      - title: Semana del Prematuro
         subtitle: Terapia focalizada
         price: $115/mes
         actions:
