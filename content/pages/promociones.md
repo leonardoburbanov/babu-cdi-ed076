@@ -64,7 +64,7 @@ sections:
           Respuesta 3
 seo:
   title: Promociones - Babu
-  description: Membresías de estimulación temprana
+  description: Promociones en planes de estimulación temprana
   extra:
     - name: 'og:type'
       value: website
