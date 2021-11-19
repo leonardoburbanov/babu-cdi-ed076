@@ -13,6 +13,10 @@ sections:
           - label: Comprar Plan Star
             url: /signup
             style: secondary
+        details: |
+          *   Para niños prematuros
+
+          *   Para niños con problemas de neurodesarrollo
       - title: Planet
         subtitle: Estimulación temprana
         price: $215/mes
