@@ -42,10 +42,8 @@ sections:
         answer: |
           Respuesta 1
       - question: ¿Pregunta 2?
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit.
+        answer: |
+          Respuesta 2
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
