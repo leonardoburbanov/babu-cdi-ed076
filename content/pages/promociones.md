@@ -7,7 +7,7 @@ sections:
     title: "Promociones\_\_\U0001F525"
     pricing_plans:
       - title: Semana del Prematuro
-        subtitle: Terapia focalizada
+        subtitle: Del 16 al 20 de Noviembre 2021
         price: $115/mes
         actions:
           - label: Comprar Plan Star
