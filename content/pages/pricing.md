@@ -5,9 +5,6 @@ sections:
     type: section_pricing
     background: gray
     title: Membresías
-    subtitle: >-
-      Aplican condiciones en el caso de los productos "Day-to-Day" y "Terapia a
-      domicilio"
     pricing_plans:
       - title: Star
         subtitle: Terapia focalizada
