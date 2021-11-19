@@ -8,7 +8,7 @@ sections:
     pricing_plans:
       - title: Semana del Prematuro
         subtitle: Del 16 al 20 de Noviembre 2021
-        price: $115/mes
+        price: EvaluacionesGratis
         actions:
           - label: Comprar Plan Star
             url: /signup
