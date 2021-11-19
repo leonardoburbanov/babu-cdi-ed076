@@ -23,9 +23,7 @@ sections:
 
           *   Sesiones de 30 mins.
 
-
-
-          **Escoge solo una terapia:**
+          **Solo una terapia:**
 
           1.  Terapia física
 
