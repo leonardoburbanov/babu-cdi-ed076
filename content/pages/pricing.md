@@ -22,7 +22,7 @@ sections:
             url: /signup
             style: secondary
       - title: Planet
-        subtitle: Terapia integral
+        subtitle: Estimulación temprana
         price: $49/m
         details: |-
           * Curabitur non nunc mollis
