@@ -22,11 +22,9 @@ sections:
         subtitle: Del 16 al 20 de Noviembre 2021
         price: 15% Descuento
         details: |
-          *
+          Para niños prematuros
 
-          <!---->
-
-          *
+          Para 
         highlight: true
         actions:
           - label: "Comprar Plan Planet \U0001F525"
