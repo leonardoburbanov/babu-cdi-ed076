@@ -9,7 +9,7 @@ sections:
       Aplican condiciones en el caso de los productos "Day-to-Day" y "Terapia a
       domicilio"
     pricing_plans:
-      - title: Basic
+      - title: Star
         subtitle: For small businesses
         price: $5/m
         details: |-
