@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: '/images/Mamá, bebé y cohete - Foto 1-3c056bab.png'
     image_alt: App preview
-    title: Estimulación temprana y desarrollo integral para tu peque
+    title: Estimulación temprana y terapia infantil integral para tu peque
     content: |
       Transformamos la vida de tu bebé y tu vida.
     actions:
