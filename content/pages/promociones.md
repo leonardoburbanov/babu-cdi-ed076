@@ -3,7 +3,7 @@ title: Membresías
 sections:
   - section_id: pricing
     type: section_pricing
-    background: white
+    background: gray
     title: "Promociones\_\_\U0001F525"
     pricing_plans:
       - title: Semana del Prematuro
