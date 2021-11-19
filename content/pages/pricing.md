@@ -23,7 +23,7 @@ sections:
             style: secondary
       - title: Planet
         subtitle: Estimulación temprana
-        price: $215/m
+        price: $215/mes
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
