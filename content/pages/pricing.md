@@ -65,24 +65,7 @@ sections:
       - title: Universe
         subtitle: Terapia infantil integral
         price: $230/mes
-        details: |
-          *   Evaluación inicial gratuita
-          *   Reporte de seguimiento mensual
-          *   De lunes a sábado (bajo agendamiento previo)
-          *   Horario de atención: 9AM a 6PM
-          *   Sesiones de 1h.
-
-          **3 terapias por sesión**
-
-          1.  Terapia física
-
-          2.  Terapia ocupacional
-
-          3.  Hidroterapia
-
-          *   **+ 1 sesión de Hidroterapia extra**
-          *   **+ 2 sesiones de Canoterapia**
-          *   **+ 1 sesión de Terapia del Lenguaje**
+        details: "*   Evaluación inicial gratuita\n*   Reporte de seguimiento mensual\n*   De lunes a sábado (bajo agendamiento previo)\n*   Horario de atención: 9AM a 6PM\n*   Sesiones de 1h.\n\n**3 terapias por sesión**\n\n1.  Terapia física\n\n2.  Terapia ocupacional\n\n3.  Hidroterapia \n\n*   **+ 1 sesión de Hidroterapia extra **\U0001F4A6\n*   **+ 2 sesiones de Canoterapia **\U0001F436\n*   **+ 1 sesión de Terapia del Lenguaje **\U0001F445\n"
         actions:
           - label: Order Now
             url: /signup
