@@ -5,7 +5,9 @@ sections:
     type: section_pricing
     background: gray
     title: Membresías
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: >-
+      Aplican condiciones en el caso de los productos "Day-to-Day" y "Terapia a
+      domicilio"
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
