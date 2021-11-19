@@ -11,7 +11,7 @@ sections:
     pricing_plans:
       - title: Star
         subtitle: Terapia focalizada
-        price: $175/mes
+        price: $115/mes
         details: |
           *   Evaluación inicial gratuita
           *   Reporte de seguimiento mensual
