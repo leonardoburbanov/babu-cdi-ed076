@@ -12,7 +12,7 @@ sections:
         actions:
           - label: ¡Obtener promoción!
             url: /signup
-            style: secondary
+            style: primary
         details: |
           *   Para niños prematuros
 
