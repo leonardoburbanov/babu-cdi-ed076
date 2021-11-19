@@ -14,7 +14,7 @@ sections:
         price: $115/mes
         details: "*   Evaluación inicial gratuita\n\n*   Reporte de seguimiento mensual\n\n*   De lunes a sábado (bajo previo agendamiento)\n\n*   Horario de atención: 9AM a 6PM\n\n*   Sesiones de 30 mins.\n\n**Solo una terapia:**\n\n1.  Terapia física \U0001F93E‍♀️\n\n2.  Terapia ocupacional \U0001F3A8\n\n3.  Hidroterapia \U0001F4A6\n\n4.  Terapia del Lenguaje \U0001F445\n\n5.  Canoterapia  \U0001F436\n"
         actions:
-          - label: Comprar ahora
+          - label: Comprar Plan Star
             url: /signup
             style: secondary
       - title: Planet
