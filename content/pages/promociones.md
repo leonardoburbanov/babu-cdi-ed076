@@ -4,7 +4,7 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: Membresías
+    title: Promociones
     pricing_plans:
       - title: Star
         subtitle: Terapia focalizada
