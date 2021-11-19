@@ -59,16 +59,8 @@ sections:
         subtitle: Terapia infantil integral
         price: $230/mes
         details: |
-          *   *   Reporte de seguimiento mensual*   **3 terapias por sesión:**
-
-                  *   Terapia física
-
-                  *   Terapia ocupacional
-
-                  *   Hidroterapia
-              *   De lunes a sábado (bajo agendamiento previo)
-
-              *   Sesiones de 1h.
+          *   Reporte de seguimiento mensual}
+          *   **3 terapias por sesión**
         actions:
           - label: Order Now
             url: /signup
