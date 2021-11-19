@@ -14,10 +14,18 @@ sections:
         price: $115/mes
         details: |
           *   Evaluación inicial gratuita
+
           *   Reporte de seguimiento mensual
+
           *   De lunes a sábado (bajo previo agendamiento)
+
           *   Horario de atención: 9AM a 6PM
+
           *   Sesiones de 30 mins.
+
+
+
+
 
 
 
