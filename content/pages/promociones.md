@@ -31,7 +31,7 @@ sections:
           - label: Comprar Plan Universe
             url: /signup
             style: secondary
-    subtitle: ¡Nuestros precios están aquí!
+    subtitle: ¡Nuestros promociones están aquí!
   - section_id: faq
     type: section_faq
     background: gray
