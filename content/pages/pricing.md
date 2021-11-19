@@ -39,22 +39,24 @@ sections:
       - title: Planet
         subtitle: Estimulación temprana
         price: $215/mes
-        details: |
+        details: |+
           *   Evaluación inicial gratuita
           *   Reporte de seguimiento mensual
-          *   **3 terapias por sesión:**
-
-              *   Terapia física
-
-              *   Terapia ocupacional
-
-              *   Hidroterapia
-
-          <!---->
-
           *   De lunes a sábado (bajo agendamiento previo)
-          *   Horario de atención: 9AM a 6PM
-          *   Sesiones de 1h.
+          *   *   Horario de atención: 9AM a 6PM
+
+              *   *   Sesiones de 1h.
+
+
+
+          **3 terapias por sesión:**
+
+          *   Terapia física
+
+          *   Terapia ocupacional
+
+          *   Hidroterapia
+
         highlight: true
         actions:
           - label: "Comprar ahora\_\U0001F525"
