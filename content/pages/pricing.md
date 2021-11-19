@@ -48,7 +48,7 @@ sections:
         answer: |
           Respuesta 3
 seo:
-  title: Membresías
+  title: Membresías - Babu
   description: This is the pricing page
   extra:
     - name: 'og:type'
