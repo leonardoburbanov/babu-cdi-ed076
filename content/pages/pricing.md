@@ -23,7 +23,7 @@ sections:
         details: "*   Evaluación inicial gratuita\n*   Reporte de seguimiento mensual\n*   De lunes a sábado (bajo agendamiento previo)\n*   *   Horario de atención: 9AM a 6PM\n\n    *   *   Sesiones de 1h.\n\n**3 terapias por sesión:**\n\n*   Terapia física \U0001F93E‍♀️\n\n*   Terapia ocupacional \U0001F3A8\n\n*   Hidroterapia  \U0001F4A6\n"
         highlight: true
         actions:
-          - label: "Comprar ahora\_\U0001F525"
+          - label: "Comprar Plan Planet \U0001F525"
             url: /signup
             style: primary
       - title: Universe
