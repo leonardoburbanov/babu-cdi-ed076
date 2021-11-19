@@ -18,7 +18,7 @@ sections:
           * Suspendisse ut lacus
           * Etiam eget dui a augue
         actions:
-          - label: Order Now
+          - label: Comprar ahora
             url: /signup
             style: secondary
       - title: Planet
