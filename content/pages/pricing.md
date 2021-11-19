@@ -37,7 +37,7 @@ sections:
             style: primary
       - title: Universe
         subtitle: Terapia infantil integral
-        price: $149/m
+        price: $230/mes
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
