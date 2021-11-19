@@ -19,7 +19,7 @@ sections:
           *   Para niños con problemas de neurodesarrollo
         highlight: true
       - title: Semana del Prematuro
-        subtitle: Estimulación temprana
+        subtitle: Del 16 al 20 de Noviembre 2021
         price: $215/mes
         details: |
           *
