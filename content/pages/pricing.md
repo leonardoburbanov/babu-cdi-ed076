@@ -11,7 +11,7 @@ sections:
     pricing_plans:
       - title: Star
         subtitle: Terapia focalizada
-        price: $5/m
+        price: $175/mes
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
