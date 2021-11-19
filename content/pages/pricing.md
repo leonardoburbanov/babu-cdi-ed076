@@ -22,7 +22,7 @@ sections:
             url: /signup
             style: secondary
       - title: Planet
-        subtitle: For medium-sized businesses
+        subtitle: Terapia integral
         price: $49/m
         details: |-
           * Curabitur non nunc mollis
