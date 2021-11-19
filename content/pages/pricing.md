@@ -1,7 +1,7 @@
 ---
 title: Membresías
 sections:
-  - section_id: membresias
+  - section_id: pricing
     type: section_pricing
     background: gray
     title: Membresías
