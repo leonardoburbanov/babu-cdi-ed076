@@ -12,11 +12,10 @@ sections:
       - title: Star
         subtitle: Terapia focalizada
         price: $175/mes
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: |
+          *   Evaluación inicial gratuita
+          *   Reporte de seguimiento mensual
+          *   Terapia física o Terapia ocupacional o Hidroterapia
         actions:
           - label: Comprar ahora
             url: /signup
