@@ -58,11 +58,17 @@ sections:
       - title: Universe
         subtitle: Terapia infantil integral
         price: $230/mes
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          *   *   Reporte de seguimiento mensual*   **3 terapias por sesión:**
+
+                  *   Terapia física
+
+                  *   Terapia ocupacional
+
+                  *   Hidroterapia
+              *   De lunes a sábado (bajo agendamiento previo)
+
+              *   Sesiones de 1h.
         actions:
           - label: Order Now
             url: /signup
