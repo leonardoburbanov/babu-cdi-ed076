@@ -27,7 +27,7 @@ sections:
 
           De lunes a sábado (bajo previo agendamiento)
 
-          Sesiones de 30 minutos.
+          Sesiones de 30 mins.
         actions:
           - label: Comprar ahora
             url: /signup
