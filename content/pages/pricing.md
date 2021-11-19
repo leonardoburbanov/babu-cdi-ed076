@@ -38,7 +38,7 @@ sections:
     title: Preguntas frecuentes
     subtitle: ¿Quieres saber más detalles sobre nuestros servicios?
     faq_items:
-      - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
+      - question: ¿Pregunta 1?
         answer: >-
           Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
           tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
