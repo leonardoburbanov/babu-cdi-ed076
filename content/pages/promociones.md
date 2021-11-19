@@ -24,7 +24,7 @@ sections:
         details: |
           Para niños prematuros
 
-          Para 
+          Para niños con problemas de neurodesarrollo
         highlight: true
         actions:
           - label: "Comprar Plan Planet \U0001F525"
