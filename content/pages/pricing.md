@@ -31,7 +31,7 @@ sections:
         price: $230/mes
         details: "*   Evaluación inicial gratuita\n*   Reporte de seguimiento mensual\n*   De lunes a sábado (bajo agendamiento previo)\n*   Horario de atención: 9AM a 6PM\n*   Sesiones de 1h.\n\n**3 terapias por sesión**\n\n1.  Terapia física \U0001F93E‍♀️\n\n2.  Terapia ocupacional \U0001F3A8\n\n3.  Hidroterapia \U0001F4A6\n\n*   **+ 1 sesión de Hidroterapia extra \U0001F4A6**\n*   **+ 2 sesiones de Canoterapia \U0001F436**\n*   **+ 1 sesión de Terapia del Lenguaje \U0001F445**\n"
         actions:
-          - label: Order Now
+          - label: Comprar Plan Universe
             url: /signup
             style: secondary
   - section_id: faq
