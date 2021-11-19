@@ -29,10 +29,9 @@ sections:
           En todos los planes
         highlight: true
         actions:
-          - label: "Comprar Plan Planet \U0001F525"
+          - label: "¡Obtener promoción! \U0001F525"
             url: /signup
             style: primary
-
 seo:
   title: Promociones - Babu
   description: Promociones en planes de estimulación temprana
