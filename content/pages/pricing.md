@@ -23,12 +23,10 @@ sections:
       - title: Planet
         subtitle: Estimulación temprana
         price: $215/mes
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: >
+          *   *   Evaluación inicial gratuita*   Reporte de seguimiento
+          mensual*   Terapia física + Terapia ocupacional + Hidroterapia*  
+          Metodología Baby Gym
         highlight: true
         actions:
           - label: "Comprar ahora\_\U0001F525"
