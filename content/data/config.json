@@ -18,6 +18,11 @@
                 "style": "link"
             },
             {
+                "label": "Membresías",
+                "url": "/pricing",
+                "style": "link"
+            },
+            {
                 "label": "Agendar evaluación 🔥",
                 "url": "/signup",
                 "style": "primary"
