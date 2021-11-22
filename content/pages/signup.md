@@ -3,7 +3,6 @@ title: Agendar evaluación
 subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
-image_alt: Office desk top view
 seo:
   title: Sign Up
   description: This is the sign up page
