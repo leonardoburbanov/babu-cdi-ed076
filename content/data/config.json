@@ -19,7 +19,7 @@
             },
             {
                 "label": "Promociones",
-                "url": "/pricing",
+                "url": "/promotions",
                 "style": "link"
             },
             {
