@@ -4,7 +4,7 @@ import blog from './blog';
 import post from './post';
 
 
-export { landing, page, blog, post, agendar };
+export { landing, page, blog, post };
 
 export default {
     landing,
