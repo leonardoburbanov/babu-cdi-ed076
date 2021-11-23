@@ -1,10 +1,9 @@
 import React from 'react';
 import _ from 'lodash';
 
-import { Layout } from '../components/index';
+import components,{ Layout } from '../components/index';
 import { htmlToReact, withPrefix, markdownify } from '../utils';
 import Calendly from '../components/Calendly';
-import components, { Layout } from '../components/index';
 
 
 export default class agendar extends React.Component {
