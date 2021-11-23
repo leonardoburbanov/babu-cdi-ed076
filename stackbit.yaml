@@ -493,7 +493,8 @@ models:
     labelField: title
   section_calendly:
     type: object
-    label: Calendly Section
+    label: Calendly Section}
+    labelField: title
   section_cta:
     type: object
     label: Call to Action Section
