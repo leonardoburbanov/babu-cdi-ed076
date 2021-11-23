@@ -26,7 +26,7 @@ sections:
       - label: Promociones
         url: /signup
         style: primary
-      - label: Ubicación
+      - label: Contacto
         url: '#call-to-map'
         style: secondary
         has_icon: false
