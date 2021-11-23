@@ -2,6 +2,24 @@
 title: Agendar evaluación
 subtitle: ¡Comencemos este camino juntos!
 
+actions:
+      - label: Whatsapp
+        url: >-
+          https://api.whatsapp.com/send/?phone=5930984140004&text=%C2%A1Hola+Babu!,+%20quisiera+contratar+uno+de+sus+servicios&app_absent=0
+        style: primary
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+      - label: Ubicación
+        url: '#call-to-map'
+        style: secondary
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+
+
 seo:
   title: 'Agendar evaluación - Babu'
   description: 'Agendar evaluación - Babu'
