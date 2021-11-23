@@ -1007,27 +1007,26 @@ models:
     type: page
     label: Agendar
     layout: agendar
-fields:
-      - type: string
-        name: title
+    fields:
+      - name: title
+        type: string
         label: Title
-        description: The title of the page
-        required: true
-      - type: string
-        name: subtitle
+      - name: subtitle
+        type: string
         label: Subtitle
-        description: The text shown below the page title
-      - type: image
-        name: image
+      - name: image
+        type: image
         label: Image
-        description: The image shown below the page title
-      - type: string
-        name: image_alt
+      - name: image_alt
+        type: string
         label: Image Alt Text
-        description: The alt text of the image
-      - type: model
-        name: seo
+      - name: seo
+        type: model
         models:
           - stackbit_page_meta
         label: Seo
+        description: Seo
     labelField: title
+    exclude:
+      - blog/**
+    hideContent: false
