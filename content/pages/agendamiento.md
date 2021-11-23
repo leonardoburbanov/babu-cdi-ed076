@@ -32,7 +32,38 @@ sections:
         icon_position: left
         new_window: false
         no_follow: false    
-        
+- section_id: call-to-map
+    title: Contacto
+    subtitle: 'Quito (Centro-Norte), Ecuador'
+    actions:
+      - label: Contactar por Whatsapp
+        url: >-
+          https://api.whatsapp.com/send/?phone=5930984140004&text=%C2%A1Hola+Babu!,+%20quisiera+contratar+uno+de+sus+servicios&app_absent=0
+        style: primary
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+        new_window: true
+        no_follow: false
+      - label: Ubicación en Google Maps
+        url: 'https://maps.app.goo.gl/eZEdeWa25nxFgppN8'
+        style: secondary
+        has_icon: false
+        icon: arrow-right
+        icon_position: left
+        new_window: true
+        no_follow: false
+    type: section_cta
+    contect: |
+      asdfadf
+    content: |
+      #### Edificio Novus (dentro del edificio)
+
+      **Dirección:** Av. 6 de Diciembre y Luis Cordero
+
+      **Telf.** (+593) 098 414 0004
+
+      ######       
 seo:
   title: 'Agendar evaluación - Babu'
   description: 'Agendar evaluación - Babu'
