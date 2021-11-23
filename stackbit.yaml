@@ -1003,3 +1003,7 @@ models:
               name: relativeUrl
               label: Relative Url
     labelField: title
+  agendar:
+    type: page
+    label: agendar
+    layout: agendar
