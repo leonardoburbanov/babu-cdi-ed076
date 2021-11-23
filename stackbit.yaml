@@ -1019,4 +1019,5 @@ models:
         models:
           - stackbit_page_meta
         label: SEO
+        description: SEO
     labelField: layout
