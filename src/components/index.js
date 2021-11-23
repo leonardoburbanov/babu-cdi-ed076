@@ -19,6 +19,7 @@ import SectionHero from './SectionHero';
 import SectionPosts from './SectionPosts';
 import SectionPricing from './SectionPricing';
 import SectionReviews from './SectionReviews';
+import SectionCalendly from './SectionCalendly';
 
 export {
     Action,
