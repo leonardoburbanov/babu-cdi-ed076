@@ -17,18 +17,9 @@ export default class SectionCalendly extends React.Component {
 
         return (
             <section id={sectionId} className="block cta-block bg-accent outer">
-                <div className="inner-large">
-                    <div className="grid">
-                        <div className="cell block-content">
-                            {title && <h2 className="block-title">{title}</h2>}
-                            {subtitle && <p className="block-copy">{htmlToReact(subtitle)}</p>}
-                            {markdownify(content)}
-                        </div>
-                        {actions && (
-                            <div className="cell block-buttons">
-                                <CtaButtons actions={actions} />
-                            </div>
-                        )}
+                <div className="outer">
+                    <div className="inner-medium">
+                        <Calendly/>
                     </div>
                 </div>
             </section>
