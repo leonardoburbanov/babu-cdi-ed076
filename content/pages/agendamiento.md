@@ -23,6 +23,7 @@ seo:
       value: This is the sign up page
 layout: agendar
 ---
+
 Una vez agendado el evento te llegará un link de pago a tu correo o whatsapp. **En caso de no pagar el agendamiento en las próximas 24h. se liberará el horario y se asignará a alguien más.**
 
 En caso de cualquier duda o novedad, no dudes en escribirnos por Whatsapp.
