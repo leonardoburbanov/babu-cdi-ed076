@@ -1021,4 +1021,6 @@ models:
         label: SEO
         description: SEO
     labelField: layout
-    exclude: blog/**
+    exclude:
+      - blog/**
+    hideContent: true
