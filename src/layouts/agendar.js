@@ -36,7 +36,7 @@ export default class agendar extends React.Component {
                             )}
                             
                             {markdownContent && <div className="post-content">{markdownify(markdownContent)}</div>}
-                            <Calendly/>
+                           
                         </article>
                     </div>
                 </div>
@@ -52,6 +52,7 @@ export default class agendar extends React.Component {
                     }
                     return <Component key={index} section={section} data={data} posts={posts} />;
                 })}
+                 <Calendly/>
             </Layout>
         );
     }
