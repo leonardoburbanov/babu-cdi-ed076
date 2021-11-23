@@ -1006,7 +1006,7 @@ models:
   agendar:
     type: page
     label: Page
-    layout: page
+    layout: agendar
     exclude:
       - blog/**
     fields:
