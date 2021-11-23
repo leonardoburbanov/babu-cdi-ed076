@@ -1005,7 +1005,7 @@ models:
     labelField: title
   page:
     type: page
-    label: Page
+    label: Agendar
     layout: page
     exclude:
       - blog/**
