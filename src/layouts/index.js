@@ -2,6 +2,7 @@ import landing from './landing';
 import page from './page';
 import blog from './blog';
 import post from './post';
+import agendar from './post';
 
 export { landing, page, blog, post };
 
