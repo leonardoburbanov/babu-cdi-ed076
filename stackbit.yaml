@@ -1015,5 +1015,6 @@ models:
         type: string
         label: Subtitle
       - name: SEO
-        type: string
+        type: model
+        models: []
     labelField: layout
