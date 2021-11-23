@@ -1020,7 +1020,7 @@ models:
           - stackbit_page_meta
         label: SEO
         description: SEO
-      - name: ''
+      - name: image
         type: string
     labelField: layout
     exclude:
