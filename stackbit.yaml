@@ -1020,7 +1020,7 @@ models:
       - name: image_alt
         type: string
         label: Image Alt Text
-      - name: SEO
+      - name: seo
         type: model
         models:
           - stackbit_page_meta
