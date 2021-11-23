@@ -491,6 +491,9 @@ models:
         const: section_content
         hidden: true
     labelField: title
+  section_calendly:
+    type: object
+    label: Calendly Section
   section_cta:
     type: object
     label: Call to Action Section
