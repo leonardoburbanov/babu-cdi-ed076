@@ -22,7 +22,7 @@ seo:
       value: Sign Up
     - name: 'twitter:description'
       value: This is the sign up page
-layout: page
+layout: agendar
 ---
 ## Lorem ipsum
 
