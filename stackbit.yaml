@@ -493,7 +493,14 @@ models:
     labelField: title
   section_calendly:
     type: object
-    label: Calendly Section}
+    label: Calendly Section
+    fields:
+    - type: string
+        name: type
+        label: Object Type
+        description: The type of the object
+        const: section_cta
+        hidden: true
     labelField: title
   section_cta:
     type: object
