@@ -4,7 +4,7 @@ import _ from 'lodash';
 import { Layout } from '../components/index';
 import { htmlToReact, withPrefix, markdownify } from '../utils';
 
-export default class agendar extends React.Component {
+export default class Agendar extends React.Component {
     render() {
         const page = _.get(this.props, 'page');
         const data = _.get(this.props, 'data');
