@@ -1025,7 +1025,7 @@ models:
         label: Image
       - name: image_alt
         type: string
-        label: ''
+        label: Image Alt Text
     labelField: layout
     exclude:
       - blog/**
