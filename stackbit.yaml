@@ -505,6 +505,7 @@ models:
         hidden: true
       - name: Title
         type: string
+        label: title
     labelField: title
   section_cta:
     type: object
