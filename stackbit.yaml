@@ -496,11 +496,11 @@ models:
     label: Calendly Section
     fields:
       - type: string
-          name: type
-          label: Object Type
-          description: The type of the object
-          const: section_cta
-          hidden: true
+        name: type
+        label: Object Type
+        description: The type of the object
+        const: section_cta
+        hidden: true
     labelField: title
   section_cta:
     type: object
