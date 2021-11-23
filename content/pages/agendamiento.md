@@ -3,8 +3,7 @@ title: Agendar evaluación
 subtitle: ¡Comencemos este camino juntos!
 
 sections:
-  - section_id: call-to-calendly
-    type: section_calendly
+
   - section_id: call-to-action
     type: section_cta
     title: ¡Agenda tu evaluación ahora!
@@ -33,7 +32,9 @@ sections:
         icon: arrow-left
         icon_position: left
         new_window: false
-        no_follow: false    
+        no_follow: false
+  - section_id: call-to-calendly
+    type: section_calendly
   - section_id: call-to-map
     title: Contacto
     subtitle: 'Quito (Centro-Norte), Ecuador'
