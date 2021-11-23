@@ -1,9 +1,7 @@
 ---
 title: Agendar evaluación
 subtitle: ¡Comencemos este camino juntos!
-
 sections:
-
   - section_id: call-to-action
     type: section_cta
     title: ¡Agenda tu evaluación ahora!
@@ -16,15 +14,6 @@ sections:
         has_icon: true
         icon: arrow-right
         icon_position: right
-      - label: Ubicación
-        url: '#call-to-map'
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
-
   - section_id: call-to-calendly
     type: section_calendly
   - section_id: call-to-map
@@ -58,8 +47,8 @@ sections:
 
       ######       
 seo:
-  title: 'Agendar evaluación - Babu'
-  description: 'Agendar evaluación - Babu'
+  title: Agendar evaluación - Babu
+  description: Agendar evaluación - Babu
   extra:
     - name: 'og:type'
       value: website
