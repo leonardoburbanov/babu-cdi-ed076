@@ -1,10 +1,10 @@
 ---
-title: lorem-ipsum
-subtitle: lorem-ipsum
-image_alt: lorem-ipsum
+title: Agendar evaluación
+subtitle: ¡Comencemos este camino juntos!
+
 seo:
-  title: ''
-  description: ''
+  title: 'Agendar evaluación - Babu'
+  description: 'Agendar evaluación - Babu'
   robots: []
   extra: []
 layout: agendar
