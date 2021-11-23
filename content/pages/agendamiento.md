@@ -23,9 +23,7 @@ sections:
         icon_position: left
         new_window: false
         no_follow: false
-      - label: Promociones
-        url: /signup
-        style: primary
+
       - label: Contacto
         url: '#call-to-map'
         style: secondary
