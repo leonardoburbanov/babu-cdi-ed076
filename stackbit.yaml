@@ -377,7 +377,8 @@ models:
         label: Sentions
         items:
           type: model
-          models: []
+          models:
+            - section_cta
     labelField: title
   post:
     type: page
