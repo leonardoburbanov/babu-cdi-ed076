@@ -1029,4 +1029,4 @@ models:
     labelField: layout
     exclude:
       - blog/**
-    hideContent: true
+    hideContent: false
