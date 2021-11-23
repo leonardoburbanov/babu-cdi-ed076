@@ -7,7 +7,7 @@ seo:
   description: ''
   robots: []
   extra: []
-layout: agendar
+layout: page
 ---
 ## Lorem ipsum
 
