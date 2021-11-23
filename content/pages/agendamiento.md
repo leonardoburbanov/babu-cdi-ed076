@@ -23,9 +23,8 @@ seo:
       value: This is the sign up page
 layout: agendar
 ---
-## Lorem ipsum
+## Aplican promociones y condiciones
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Una vez agendado el evento te llegará un link de pago a tu correo o whatsapp. **En caso de no pagar el agendamiento en las próximas 24h. se liberará el horario y se asignará a alguien más.**
 
-- Lorem ipsum
-- dolor sit amet
+En caso de cualquier duda o novedad, no dudes en escribirnos por Whatsapp.
