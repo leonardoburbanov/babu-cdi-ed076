@@ -1021,7 +1021,7 @@ models:
         label: SEO
         description: SEO
       - name: image
-        type: string
+        type: image
         label: Image
     labelField: layout
     exclude:
