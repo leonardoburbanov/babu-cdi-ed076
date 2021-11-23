@@ -1025,6 +1025,7 @@ models:
         label: Image
       - name: ''
         type: string
+        label: ''
     labelField: layout
     exclude:
       - blog/**
