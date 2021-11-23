@@ -6,7 +6,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: ¡Agenda tu evaluación ahora!
-    subtitle: Puedes agendar directamente en los horarios disponibles o .
+    subtitle: Puedes agendar directamente en el calendario o escribirnos por Whatsapp.
     actions:
       - label: Ver promociones
         url: /signup
