@@ -15,7 +15,7 @@ sections:
         has_icon: true
         icon: arrow-right
         icon_position: right
-      - label: Ubicación
+      - label: Contacto y ubicación
         url: '#call-to-map'
         style: secondary
         has_icon: false
