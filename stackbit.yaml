@@ -374,7 +374,7 @@ models:
         label: Seo
       - name: sections
         type: list
-        label: Sentions
+        label: Sections
         items:
           type: model
           models:
