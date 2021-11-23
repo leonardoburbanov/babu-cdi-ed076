@@ -42,7 +42,8 @@ export {
     SectionHero,
     SectionPosts,
     SectionPricing,
-    SectionReviews
+    SectionReviews,
+    SectionCalendly
 };
 
 export default {
@@ -66,5 +67,6 @@ export default {
     SectionHero,
     SectionPosts,
     SectionPricing,
-    SectionReviews
+    SectionReviews,
+    SectionCalendly
 };
