@@ -380,6 +380,7 @@ models:
           models:
             - section_cta
             - section_calendly
+            - section_contact
     labelField: title
   post:
     type: page
