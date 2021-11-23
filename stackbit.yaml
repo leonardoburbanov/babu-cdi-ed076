@@ -1011,7 +1011,7 @@ models:
       - name: title
         type: string
         label: Title
-      - name: ''
+      - name: subtitle
         type: string
         label: Subtitle
     labelField: layout
