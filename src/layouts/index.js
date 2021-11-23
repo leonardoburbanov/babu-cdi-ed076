@@ -10,5 +10,6 @@ export default {
     landing,
     page,
     blog,
-    post
+    post,
+    agendar
 };
