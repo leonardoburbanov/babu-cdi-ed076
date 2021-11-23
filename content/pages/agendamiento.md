@@ -25,14 +25,6 @@ sections:
         new_window: false
         no_follow: false
 
-      - label: Contacto
-        url: '#call-to-map'
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
   - section_id: call-to-calendly
     type: section_calendly
   - section_id: call-to-map
