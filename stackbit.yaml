@@ -1014,18 +1014,18 @@ models:
       - name: subtitle
         type: string
         label: Subtitle
-      - name: SEO
-        type: model
-        models:
-          - stackbit_page_meta
-        label: SEO
-        description: SEO
       - name: image
         type: image
         label: Image
       - name: image_alt
         type: string
         label: Image Alt Text
+      - name: SEO
+        type: model
+        models:
+          - stackbit_page_meta
+        label: SEO
+        description: SEO
     labelField: layout
     exclude:
       - blog/**
