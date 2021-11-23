@@ -23,7 +23,7 @@ sections:
         icon_position: left
         new_window: false
         no_follow: false
-      - label: Ver promociones
+      - label: Promociones
         url: /signup
         style: primary
       - label: Ubicación
