@@ -4,7 +4,7 @@ import _ from 'lodash';
 import { htmlToReact,markdownify } from '../utils';
 import CtaButtons from './CtaButtons';
 
-export default class SectionCta extends React.Component {
+export default class SectionCalendly extends React.Component {
     render() {
         const section = _.get(this.props, 'section');
         const sectionId = _.get(section, 'section_id');
