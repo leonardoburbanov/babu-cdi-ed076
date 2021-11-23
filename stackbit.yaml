@@ -316,8 +316,7 @@ models:
     type: page
     label: Page
     layout: page
-    exclude:
-      - blog/**
+    exclude: blog/**
     fields:
       - type: string
         name: title
