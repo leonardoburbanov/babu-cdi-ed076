@@ -3,6 +3,8 @@ title: Agendar evaluación
 subtitle: ¡Comencemos este camino juntos!
 
 sections:
+  - section_id: call-to-calendly
+    type: section_calendly
   - section_id: call-to-action
     type: section_cta
     title: ¡Agenda tu evaluación ahora!
