@@ -5,11 +5,12 @@ import post from './post';
 import post from './agendar';
 
 
-export { landing, page, blog, post,agendar };
+export { landing, page, blog, post, agendar };
 
 export default {
     landing,
     page,
     blog,
-    post
+    post,
+    agendar
 };
