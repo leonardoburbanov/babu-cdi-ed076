@@ -1023,7 +1023,7 @@ models:
       - name: image
         type: image
         label: Image
-      - name: ''
+      - name: image_alt
         type: string
         label: ''
     labelField: layout
