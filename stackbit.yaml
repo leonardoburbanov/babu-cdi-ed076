@@ -1026,7 +1026,7 @@ models:
           - stackbit_page_meta
         label: Seo
         description: Seo
-    labelField: layout
+    labelField: tittle
     exclude:
       - blog/**
     hideContent: false
