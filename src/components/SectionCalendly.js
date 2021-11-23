@@ -3,6 +3,8 @@ import _ from 'lodash';
 
 import { htmlToReact,markdownify } from '../utils';
 import CtaButtons from './CtaButtons';
+import Calendly from '../components/Calendly';
+
 
 export default class SectionCalendly extends React.Component {
     render() {
