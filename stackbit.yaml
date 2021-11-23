@@ -316,7 +316,8 @@ models:
     type: page
     label: Page
     layout: page
-    exclude: blog/**
+    exclude:
+      - blog/**
     fields:
       - type: string
         name: title
@@ -1020,3 +1021,4 @@ models:
         label: SEO
         description: SEO
     labelField: layout
+    exclude: blog/**
