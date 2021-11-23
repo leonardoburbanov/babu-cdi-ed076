@@ -11,7 +11,7 @@ export default class Calendly extends React.Component {
     return (
       <div>
         <InlineWidget 
-            url="https://calendly.com/leofr7nco/15min"   
+            url="https://calendly.com/leofr7nco/50min"   
             styles={ {
                 height: '1000px'
               }}
