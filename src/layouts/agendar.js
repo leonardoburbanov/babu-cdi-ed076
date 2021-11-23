@@ -3,7 +3,7 @@ import _ from 'lodash';
 
 import { Layout } from '../components/index';
 import { htmlToReact, withPrefix, markdownify } from '../utils';
-import Calendly from './Calendly';
+import Calendly from '../components/Calendly';
 
 export default class agendar extends React.Component {
     render() {
