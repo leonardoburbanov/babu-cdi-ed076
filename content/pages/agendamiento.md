@@ -32,7 +32,7 @@ sections:
         icon_position: left
         new_window: false
         no_follow: false    
-- section_id: call-to-map
+  - section_id: call-to-map
     title: Contacto
     subtitle: 'Quito (Centro-Norte), Ecuador'
     actions:
