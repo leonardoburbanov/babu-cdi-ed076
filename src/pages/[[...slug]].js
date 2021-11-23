@@ -9,6 +9,7 @@ class Page extends React.Component {
     render() {
         const modelName = _.get(this.props, 'page.__metadata.modelName');
         const PageLayout = pageLayouts[modelName];
+        console.log("PageLayout!!")
         if (!PageLayout) {
             throw new Error(`no page layout matching the page model: ${modelName}`);
         }
