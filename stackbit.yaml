@@ -1014,6 +1014,6 @@ models:
       - name: subtitle
         type: string
         label: Subtitle
-      - name: ''
+      - name: SEO
         type: string
     labelField: layout
