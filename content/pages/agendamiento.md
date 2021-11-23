@@ -6,7 +6,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: ¡Agenda tu evaluación ahora!
-    subtitle: Aprovecha las promociones de este mes.
+    subtitle: Puedes agendar directamente en los horarios disponibles o .
     actions:
       - label: Ver promociones
         url: /signup
