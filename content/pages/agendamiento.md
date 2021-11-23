@@ -7,7 +7,6 @@ sections:
     type: section_cta
     title: ¡Agenda tu evaluación ahora!
     subtitle: Escríbenos por Whatsapp si quieres recibir más información.
-    subtitle: Escríbenos por Whatsapp si quieres recibir más información.
     actions:
       - label: Whatsapp
         url: >-
