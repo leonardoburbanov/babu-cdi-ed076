@@ -8,7 +8,7 @@ sections:
     title: ¡Agenda tu evaluación ahora!
     subtitle: Puedes agendar directamente en el calendario o escribirnos por Whatsapp.
     actions:
-      - label: Ver promociones
+      - label: Whatsapp
         url: /signup
         style: primary
       - label: Ver promociones
