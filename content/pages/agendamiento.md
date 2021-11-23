@@ -2,25 +2,7 @@
 title: Agendar evaluación
 subtitle: ¡Comencemos este camino juntos!
 sections:
-  - section_id: call-to-action-2
-    type: section_cta
-    title: ¡Agenda tu evaluación ahora!
-    subtitle: Escríbenos por Whatsapp si quieres recibir más información!!!.
-    actions:
-      - label: Whatsapp
-        url: >-
-          https://api.whatsapp.com/send/?phone=5930984140004&text=%C2%A1Hola+Babu!,+%20quisiera+contratar+uno+de+sus+servicios&app_absent=0
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-      - label: Whatsapp
-        url: >-
-          https://api.whatsapp.com/send/?phone=5930984140004&text=%C2%A1Hola+Babu!,+%20quisiera+contratar+uno+de+sus+servicios&app_absent=0
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
+
   - section_id: call-to-calendly
     type: section_calendly
   - section_id: call-to-map
