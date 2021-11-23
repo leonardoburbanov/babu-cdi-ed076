@@ -1005,7 +1005,7 @@ models:
     labelField: title
   agendar:
     type: page
-    label: agendar
+    label: Agendar
     layout: agendar
     fields:
       - name: title
@@ -1017,4 +1017,5 @@ models:
       - name: SEO
         type: model
         models: []
+        label: SEO
     labelField: layout
