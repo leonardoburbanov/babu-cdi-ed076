@@ -1024,7 +1024,7 @@ models:
         type: model
         models:
           - stackbit_page_meta
-        label: SEO
+        label: Seo
         description: SEO
     labelField: layout
     exclude:
