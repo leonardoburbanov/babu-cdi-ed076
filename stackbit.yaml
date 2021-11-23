@@ -374,8 +374,8 @@ models:
         label: Seo
       - name: ''
         type: model
-        models:
-          - section_cta
+        models: []
+        label: ''
     labelField: title
   post:
     type: page
