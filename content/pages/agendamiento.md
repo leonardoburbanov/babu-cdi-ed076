@@ -3,29 +3,14 @@ title: Agendar evaluación
 subtitle: ¡Comencemos este camino juntos!
 
 sections:
-  - section_id: hero
-    type: section_hero
-    image: '/images/Mamá, bebé y cohete - Foto 1-3c056bab.png'
-    image_alt: App preview
-    title: Estimulación temprana y terapia infantil integral para tu peque
-    content: |
-      Transformamos la vida de tu bebé y tu vida.
+  - section_id: call-to-action
+    type: section_cta
+    title: ¡Agenda tu evaluación ahora!
+    subtitle: Aprovecha las promociones de este mes.
     actions:
-      - label: Whatsapp
-        url: >-
-          https://api.whatsapp.com/send/?phone=5930984140004&text=%C2%A1Hola+Babu!,+%20quisiera+contratar+uno+de+sus+servicios&app_absent=0
+      - label: Ver promociones
+        url: /signup
         style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-      - label: Ubicación
-        url: '#call-to-map'
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
 
 seo:
   title: 'Agendar evaluación - Babu'
