@@ -4,7 +4,7 @@ subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
 seo:
-  title: Sign Up
+  title: Agendar eval
   description: This is the sign up page
   extra:
     - name: 'og:type'
