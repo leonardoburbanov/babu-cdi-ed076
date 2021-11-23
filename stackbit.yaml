@@ -1028,4 +1028,4 @@ models:
               name: relativeUrl
               label: Relative Url
     labelField: title
-nodeVersion: 16
+nodeVersion: 12
