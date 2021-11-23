@@ -11,10 +11,10 @@ sections:
       - label: Ver promociones
         url: /signup
         style: primary
-    - label: Ver promociones
-    url: /signup
-    style: primary
-
+      - label: Ver promociones
+        url: /signup
+        style: primary
+        
 seo:
   title: 'Agendar evaluación - Babu'
   description: 'Agendar evaluación - Babu'
