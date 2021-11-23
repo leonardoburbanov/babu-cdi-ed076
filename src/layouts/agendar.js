@@ -20,6 +20,18 @@ export default class agendar extends React.Component {
 
         return (
             <Layout page={page} config={config}>
+                {_.map(sections, (section, index) => {
+                    const sectionType = _.get(section, 'type');
+                    const component = _.upperFirst(_.camelCase(sectionType));
+                    if (!component) {
+                        throw new Error(`page section does not have the 'type' property, page: ${pageUrl}`);
+                    }
+                    const Component = components[component];
+                    if (!Component) {
+                        throw new Error(`no component matching the page section's type: ${sectionType}`);
+                    }
+                    return <Component key={index} section={section} data={data} posts={posts} />;
+                })}
                 <div className="outer">
                     <div className="inner-medium">
                         <article className="post post-full">
