@@ -1007,3 +1007,7 @@ models:
     type: page
     label: agendar
     layout: agendar
+    fields:
+      - name: ''
+        type: string
+    labelField: layout
