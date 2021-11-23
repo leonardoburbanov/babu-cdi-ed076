@@ -1008,6 +1008,7 @@ models:
     label: agendar
     layout: agendar
     fields:
-      - name: ''
+      - name: title
         type: string
+        label: ''
     labelField: layout
