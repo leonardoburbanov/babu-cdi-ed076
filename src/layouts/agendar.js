@@ -4,6 +4,7 @@ import _ from 'lodash';
 import { Layout } from '../components/index';
 import { htmlToReact, withPrefix, markdownify } from '../utils';
 import Calendly from '../components/Calendly';
+import components, { Layout } from '../components/index';
 
 
 export default class agendar extends React.Component {
@@ -17,6 +18,7 @@ export default class agendar extends React.Component {
         const imageAlt = _.get(page, 'image_alt');
         const markdownContent = _.get(page, 'markdown_content');
         const sections = _.get(page, 'sections');
+        
 
         return (
             <Layout page={page} config={config}>
