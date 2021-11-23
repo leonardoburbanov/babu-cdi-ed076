@@ -24,7 +24,7 @@
             },
             {
                 "label": "Agendar evaluación 🔥",
-                "url": "/signup",
+                "url": "/agendamiento",
                 "style": "primary"
             }
         ],
