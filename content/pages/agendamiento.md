@@ -36,7 +36,7 @@ sections:
     title: Contacto
     subtitle: 'Quito (Centro-Norte), Ecuador'
     actions:
-      - label: Contactar por Whatsapp
+      - label: Whatsapp
         url: >-
           https://api.whatsapp.com/send/?phone=5930984140004&text=%C2%A1Hola+Babu!,+%20quisiera+contratar+uno+de+sus+servicios&app_absent=0
         style: primary
