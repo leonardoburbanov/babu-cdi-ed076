@@ -379,6 +379,7 @@ models:
           type: model
           models:
             - section_cta
+            - section_calendly
     labelField: title
   post:
     type: page
