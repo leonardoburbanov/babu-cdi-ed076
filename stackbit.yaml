@@ -1010,5 +1010,5 @@ models:
     fields:
       - name: title
         type: string
-        label: ''
+        label: Title
     labelField: layout
