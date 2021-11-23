@@ -1016,6 +1016,7 @@ models:
         label: Subtitle
       - name: SEO
         type: model
-        models: []
+        models:
+          - stackbit_page_meta
         label: SEO
     labelField: layout
