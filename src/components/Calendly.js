@@ -1,41 +1,54 @@
-import React from 'react';
-import _ from 'lodash';
-
-import { Link, withPrefix, classNames } from '../utils';
-import Icon from './Icon';
-
-export default class Action extends React.Component {
-    render() {
-        const action = _.get(this.props, 'action');
-        const url = _.get(action, 'url');
-        const label = _.get(action, 'label');
-        const actionStyle = _.get(action, 'style', 'link');
-        const hasIcon = _.get(action, 'has_icon');
-        const actionIcon = _.get(action, 'icon', 'arrow-left');
-        const actionIconPos = _.get(action, 'icon_position', 'left');
-        const newWindow = _.get(action, 'new_window');
-        const noFollow = _.get(action, 'no_follow');
-        const attrs = {};
-        if (newWindow) {
-            attrs.target = '_blank';
-        }
-        if (newWindow || noFollow) {
-            attrs.rel = [(newWindow ? 'noopener' : '') + (noFollow ? 'nofollow' : '')].join(' ');
-        }
-
-        return (
-            <Link
-                href={withPrefix(url)}
-                {...attrs}
-                className={classNames({
-                    button: actionStyle === 'primary' || actionStyle === 'secondary',
-                    secondary: actionStyle === 'secondary',
-                    'has-icon': hasIcon
-                })}
-            >
-                {hasIcon && <Icon icon={actionIcon} />}
-                <span className={classNames({ 'order-first': actionIconPos === 'right' })}>{label}</span>
-            </Link>
-        );
-    }
+import React from 'react'
+import {InlineWidget} from 'react-calendly'
+export default class Calendly extends React.Component {
+  componentDidMount() {
+    // whatever stuff you need here
+  }
+  componentWillUnmount() {
+    // whatever cleanup stuff you need here
+  }
+  render(){
+    return (
+      <div>
+        <InlineWidget 
+            url="https://calendly.com/leofr7nco/15min"   
+            styles={ {
+                height: '1000px'
+              }}
+            pageSettings  = { {
+                backgroundColor: 'ffffff',
+                hideEventTypeDetails: false,
+                hideLandingPageDetails: false,
+                primaryColor: '00a2ff',
+                textColor: '4d5055'
+              }}
+            prefill = { {
+                email: 'test@test.com',
+                firstName: 'Jon',
+                lastName: 'Snow',
+                name: 'Jon Snow',
+                customAnswers: {
+                  a1: 'a1',
+                  a2: 'a2',
+                  a3: 'a3',
+                  a4: 'a4',
+                  a5: 'a5',
+                  a6: 'a6',
+                  a7: 'a7',
+                  a8: 'a8',
+                  a9: 'a9',
+                  a10: 'a10'   
+                }
+              }}
+            utm = { {
+                utmCampaign: 'Spring Sale 2019',
+                utmContent: 'Shoe and Shirts',
+                utmMedium: 'Ad',
+                utmSource: 'Facebook',
+                utmTerm: 'Spring'
+              }}
+        />
+      </div>
+    );
+  }
 }
