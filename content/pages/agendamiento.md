@@ -26,6 +26,14 @@ sections:
       - label: Ver promociones
         url: /signup
         style: primary
+      - label: Ubicación
+        url: '#call-to-map'
+        style: secondary
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false    
         
 seo:
   title: 'Agendar evaluación - Babu'
