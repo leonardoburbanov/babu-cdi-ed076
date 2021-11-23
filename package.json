@@ -27,7 +27,7 @@
     "sass": "^1.43.4",
     "sourcebit": "^0.11.0",
     "sourcebit-source-filesystem": "^0.1.3",
-    "sourcebit-target-next": "^0.6.3"
+    "sourcebit-target-next": "^0.6.2"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
