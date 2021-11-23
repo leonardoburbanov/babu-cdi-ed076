@@ -2,7 +2,7 @@
 title: Agendar evaluación
 subtitle: ¡Comencemos este camino juntos!
 sections:
-  - section_id: call-to-action 2
+  - section_id: call-to-action-2
     type: section_cta
     title: ¡Agenda tu evaluación ahora!
     subtitle: Escríbenos por Whatsapp si quieres recibir más información.
