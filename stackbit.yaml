@@ -376,7 +376,8 @@ models:
         type: list
         label: Sentions
         items:
-          type: string
+          type: model
+          models: []
     labelField: title
   post:
     type: page
