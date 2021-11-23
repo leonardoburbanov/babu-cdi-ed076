@@ -21,25 +21,6 @@ export default class agendar extends React.Component {
 
         return (
             <Layout page={page} config={config}>
-                
-                <div className="outer">
-                    <div className="inner-medium">
-                        <article className="post post-full">
-                            <header className="post-header">
-                                <h1 className="post-title">{title}</h1>
-                                {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
-                            </header>
-                            {image && (
-                                <div className="post-image">
-                                    <img src={withPrefix(image)} alt={imageAlt} />
-                                </div>
-                            )}
-                            
-                            
-                           
-                        </article>
-                    </div>
-                </div>
                 {_.map(sections, (section, index) => {
                     const sectionType = _.get(section, 'type');
                     const component = _.upperFirst(_.camelCase(sectionType));
