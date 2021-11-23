@@ -373,7 +373,8 @@ models:
           - stackbit_page_meta
         label: Seo
       - name: ''
-        type: string
+        type: model
+        models: []
     labelField: title
   post:
     type: page
