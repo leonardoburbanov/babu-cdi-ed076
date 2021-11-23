@@ -34,12 +34,6 @@ export default class agendar extends React.Component {
                     }
                     return <Component key={index} section={section} data={data} posts={posts} />;
                 })}
-
-                <div className="outer">
-                    <div className="inner-medium">
-                        <Calendly/>
-                    </div>
-                </div>
             </Layout>
         );
     }
