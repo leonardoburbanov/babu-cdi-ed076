@@ -30,6 +30,7 @@ export default class agendar extends React.Component {
                                     <img src={withPrefix(image)} alt={imageAlt} />
                                 </div>
                             )}
+                            <Calendly/>
                             {markdownContent && <div className="post-content">{markdownify(markdownContent)}</div>}
                         </article>
                     </div>
