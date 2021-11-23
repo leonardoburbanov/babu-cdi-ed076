@@ -1023,6 +1023,8 @@ models:
       - name: image
         type: image
         label: Image
+      - name: ''
+        type: string
     labelField: layout
     exclude:
       - blog/**
