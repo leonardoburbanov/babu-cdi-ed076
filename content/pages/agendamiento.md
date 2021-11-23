@@ -46,6 +46,11 @@ sections:
       **Telf.** (+593) 098 414 0004
 
       ######       
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
 seo:
   title: Agendar evaluación - Babu
   description: Agendar evaluación - Babu
