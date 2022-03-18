@@ -112,13 +112,6 @@ sections:
     title: Nuestras profesionales
     subtitle: ¿Quiénes somos?
     reviews:
-      - avatar: /images/Foto SG.png
-        avatar_alt: Eric Widget's photo
-        content: >-
-          La terapia ocupacional forma parte de las especialidades para apoyar
-          en la rehabilitación y desarrollo preventivo para los más pequeños.
-        author: Stephanie Guerrero
-        author_desc: Especialista en Terapia Ocupacional y Conducta Infantil
       - author: Cinthya Guerrón
         avatar: /images/Foto CG (1).png
         avatar_alt: Parsley Montana's photo
