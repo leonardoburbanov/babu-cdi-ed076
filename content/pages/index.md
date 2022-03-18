@@ -69,22 +69,6 @@ sections:
           ¿A mi bebé le cuesta comunicarse? ¿No me entiende? ¿Qué hago? La
           terapia del lenguaje es crucial en los primeros meses y años.
         actions: []
-      - title: Terapia con perritos
-        image: /images/Canoterapia - Foto 2-e5ef9b95.png
-        image_alt: App user profile preview
-        content: >
-          También conocida como canoterapia, esta práctica corrige problemas de
-          aprendizaje y es una herramienta para mejorar la motricidad fina y
-          gruesa de los bebés y niños. Nuestros perritos ayudan a generar
-          confianza en los niños más pequeños, el objetivo es que se sientan
-          capaces de desarrollar cualquier actividad.
-        actions:
-          - label: Saber más
-            url: /blog/canoterapia
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
       - title: Terapia y cuidado a domicilio
         image: /images/Babu a domicilio - Foto 1.png
         image_alt: App user profile preview
