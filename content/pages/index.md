@@ -52,13 +52,7 @@ sections:
         content: >
           ¿Quieres garantizar el desarrollo físico de tu bebé? ¿Quieres apoyar a
           tu bebé en su recuperación? La hidroterapia es la solución.
-        actions:
-          - label: Saber más
-            url: /blog/hidroterapia
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: 'Baby Gym: Terapia física y ocupacional'
         image: /images/Baby Gym - Foto 1.png
         image_alt: App user profile preview
