@@ -61,13 +61,7 @@ sections:
           edad? Aquí, te apoyamos a que tu bebé encuentre sus primeros
           ejercicios, tanto para desarrollo muscular como para desarrollo
           neurológico. ¡Juegan y se ponen fuertes!
-        actions:
-          - label: Saber más
-            url: /blog/baby-gym
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Terapia del lenguaje
         image: /images/Terapia del lenguaje - Foto 1.png
         image_alt: App user profile preview
