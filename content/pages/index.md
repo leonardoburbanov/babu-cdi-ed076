@@ -68,13 +68,7 @@ sections:
         content: >
           ¿A mi bebé le cuesta comunicarse? ¿No me entiende? ¿Qué hago? La
           terapia del lenguaje es crucial en los primeros meses y años.
-        actions:
-          - label: Saber más
-            url: /blog/terapia-lenguaje
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Terapia con perritos
         image: /images/Canoterapia - Foto 2-e5ef9b95.png
         image_alt: App user profile preview
