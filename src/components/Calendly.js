@@ -11,7 +11,7 @@ export default class Calendly extends React.Component {
     return (
       <div>
         <InlineWidget 
-            url="https://calendly.com/leofr7nco/60min"   
+            url="https://calendly.com/babu-meetings/evaluacion"   
             styles={ {
                 height: '1000px'
               }}
@@ -23,21 +23,21 @@ export default class Calendly extends React.Component {
                 textColor: '4d5055'
               }}
             prefill = { {
-                email: 'test@test.com',
-                firstName: 'Jon',
-                lastName: 'Snow',
-                name: 'Jon Snow',
+                email: '',
+                firstName: '',
+                lastName: '',
+                name: '',
                 customAnswers: {
-                  a1: 'a1',
-                  a2: 'a2',
-                  a3: 'a3',
-                  a4: 'a4',
-                  a5: 'a5',
-                  a6: 'a6',
-                  a7: 'a7',
-                  a8: 'a8',
-                  a9: 'a9',
-                  a10: 'a10'   
+                  a1: '',
+                  a2: '',
+                  a3: '',
+                  a4: '',
+                  a5: '',
+                  a6: '',
+                  a7: '',
+                  a8: '',
+                  a9: '',
+                  a10: ''   
                 }
               }}
             utm = { {

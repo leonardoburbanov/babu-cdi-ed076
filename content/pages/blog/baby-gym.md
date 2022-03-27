@@ -1,21 +1,21 @@
 ---
 title: 'Baby Gym: Terapia física y ocupacional'
 excerpt: ¡Movimiento! + ¡Neurodesarrollo! + ¡Rehabilitación! + ¡Juegos!
-author: content/data/authors/stephanie-guerrero.yaml
-date: '2020-04-22'
+author: content/data/authors/cinthya-guerron.yaml
+date: '2022-03-01'
 thumb_image: /images/Corgi 2.jpg
 thumb_image_alt: People in a conference room
 image: /images/Mamá.jpg
 image_alt: People in a conference room
 seo:
-  title: The Advantages and Disadvantages of Working from Home
+  title: Baby Gym
   description: A tale about advantages and disadvantages of working from home
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: Baby Gym
       keyName: property
     - name: 'og:description'
       value: A tale about advantages and disadvantages of working from home
@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: Baby Gym
     - name: 'twitter:description'
       value: A tale about advantages and disadvantages of working from home
     - name: 'twitter:image'

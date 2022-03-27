@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Estimulación temprana y terapia infantil integral para tu peque
     content: |
-      Transformamos la vida de tu bebé y tu vida.
+      En Babu transformamos la vida de tu bebé y tu vida.
     actions:
       - label: Whatsapp
         url: >-
@@ -41,7 +41,7 @@ sections:
           tu bebé y vive una experiencia de aprendizaje y apoyo.
         actions:
           - label: Membresías
-            url: /features
+            url: /pricing
             style: primary
             has_icon: false
             icon: arrow-right
@@ -88,7 +88,7 @@ sections:
         #    icon: arrow-right
         #    icon_position: right
       - title: Terapia con perritos
-        image: /images/Canoterapia - Foto 2-e5ef9b95.png
+        image: /images/Canoterapia - Foto 3.png
         image_alt: App user profile preview
         content: >
           También conocida como canoterapia, esta práctica corrige problemas de
@@ -112,14 +112,14 @@ sections:
 
           Babu va hacia ti. Terapia y cuidado para tu peque a domicilio en la
           ciudad de Quito.
-        actions:
-          - label: Contactar por Whatsapp
-            url: /features
-            style: primary
-            has_icon: false
-            icon: arrow-right
-            icon_position: right
-            new_window: true
+        #actions:
+        #  - label: Contactar por Whatsapp
+        #    url: /features
+        #    style: primary
+        #    has_icon: false
+        #    icon: arrow-right
+        #    icon_position: right
+        #    new_window: true
       - title: 'Day to day, cuidado de niños'
         image: /images/Day to Day - Foto 1-d01c4603.png
         image_alt: App user profile preview
@@ -130,30 +130,30 @@ sections:
 
 
           Incluye: Hidroterapia + Talleres + Baby Gym
-        actions:
-          - label: Contactar por Whatsapp
-            url: >-
-              https://api.whatsapp.com/send/?phone=5930984140004&text=¡Hola+Babu!,+me+interesa+su+servicio+Day+to+Day&app_absent=0
-            style: primary
-            has_icon: false
-            icon: arrow-right
-            icon_position: right
-            new_window: true
-            no_follow: false
+        #actions:
+        #  - label: Contactar por Whatsapp
+        #    url: >-
+        #      https://api.whatsapp.com/send/?phone=5930984140004&text=¡Hola+Babu!,+me+interesa+su+servicio+Day+to+Day&app_absent=0
+        #    style: primary
+        #    has_icon: false
+        #    icon: arrow-right
+        #    icon_position: right
+        #    new_window: true
+        #    no_follow: false
   - section_id: reviews
     type: section_reviews
     background: white
     title: Nuestras profesionales
     subtitle: ¿Quiénes somos?
     reviews:
-      - avatar: /images/Foto SG.png
-        avatar_alt: Eric Widget's photo
-        content: >-
-          La terapia ocupacional forma parte de las especialidades para apoyar
-          en la rehabilitación y desarrollo preventivo para los más pequeños.
-        author: Stephanie Guerrero
-        author_desc: Especialista en Terapia Ocupacional y Conducta Infantil
-      - author: Cinthya Guerrón
+      #- avatar: /images/Foto SG.png
+      #  avatar_alt: Eric Widget's photo
+      #  content: >-
+      #    La terapia ocupacional forma parte de las especialidades para apoyar
+      #    en la rehabilitación y desarrollo preventivo para los más pequeños.
+      #  author: Stephanie Guerrero
+      #  author_desc: Especialista en Terapia Ocupacional y Conducta Infantil
+      - author: Msc. Cinthya Guerrón
         avatar: /images/Foto CG (1).png
         avatar_alt: Parsley Montana's photo
         content: >-
@@ -161,7 +161,7 @@ sections:
           que todos los involucrados apoyen en el desarrollo del bebé y del
           infante.
         author_desc: 'Especialista en Desarrollo Infantil, Atención Temprana y Fisioterapia'
-      - author: Gabriela Miranda
+      - author: Lic. Gabriela Miranda
         avatar: /images/Foto GM (1).png
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
@@ -175,7 +175,7 @@ sections:
     subtitle: Aprovecha las promociones de este mes.
     actions:
       - label: Ver promociones
-        url: /signup
+        url: /promotions
         style: primary
   - section_id: recent-posts
     type: section_posts

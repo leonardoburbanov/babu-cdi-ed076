@@ -6,30 +6,32 @@ sections:
     background: gray
     title: Membresías
     pricing_plans:
-      - title: Star
-        subtitle: Terapia focalizada
-        price: $115/mes
-        details: "*   Evaluación inicial gratuita\n\n*   Reporte de seguimiento mensual\n\n*   De lunes a sábado (bajo previo agendamiento)\n\n*   Horario de atención: 9AM a 6PM\n\n*   Sesiones de 30 mins.\n\n**Solo una terapia:**\n\n1.  Terapia física \U0001F93E‍♀️\n\n2.  Terapia ocupacional \U0001F3A8\n\n3.  Hidroterapia \U0001F4A6\n\n4.  Terapia del Lenguaje \U0001F445\n\n5.  Canoterapia  \U0001F436\n"
-        actions:
-          - label: Comprar Plan Star
-            url: /signup
-            style: secondary
       - title: Planet
-        subtitle: Estimulación temprana
-        price: $215/mes
-        details: "*   Evaluación inicial gratuita\n*   Reporte de seguimiento mensual\n*   De lunes a sábado (bajo agendamiento previo)\n*   *   Horario de atención: 9AM a 6PM\n\n    *   *   Sesiones de 1h.\n\n**3 terapias por sesión:**\n\n*   Terapia física \U0001F93E‍♀️\n\n*   Terapia ocupacional \U0001F3A8\n\n*   Hidroterapia  \U0001F4A6\n"
+        subtitle: 1 estación
+        price: $130 USD/mes
+        details: "Estación psicomotriz ó estación de piscina y masaje\n\n* **Descuento del 30%** por la compra de 3 meses\n\n*   **No incluye** el costo de la evaluación inicial\n\n*   Reporte de seguimiento mensual\n\n*   De lunes a sábado (bajo previo agendamiento)\n\n*   Horario de atención: 9AM a 6PM\n\n"
+        actions:
+          - label: Comprar Plan Planet
+            url: https://api.whatsapp.com/send/?phone=5930984140004&text=%C2%A1Hola+Babu!,+%20quisiera+contratar+un+plan+Planet&app_absent=0
+            style: secondary
+      - title: Galaxy
+        subtitle: 2 estaciones
+        price: $190 USD/mes
+        details: "* Estación psicomotriz + estación de talleres + estación piscina y masaje
+\n\n* **Descuento del 42%** por la compra de 3 meses\n\n*   **No incluye** el costo de la evaluación inicial\n\n*   Reporte de seguimiento mensual\n*   De lunes a sábado (bajo agendamiento previo)\n*   *   Horario de atención: 9AM a 6PM\n\n"
         highlight: true
         actions:
-          - label: "Comprar Plan Planet \U0001F525"
-            url: /signup
+          - label: "Comprar Plan Galaxi \U0001F525"
+            url: https://api.whatsapp.com/send/?phone=5930984140004&text=%C2%A1Hola+Babu!,+%20quisiera+contratar+un+plan+Galaxy&app_absent=0
             style: primary
       - title: Universe
-        subtitle: Terapia infantil integral
-        price: $230/mes
-        details: "*   Evaluación inicial gratuita\n*   Reporte de seguimiento mensual\n*   De lunes a sábado (bajo agendamiento previo)\n*   Horario de atención: 9AM a 6PM\n*   Sesiones de 1h.\n\n**3 terapias por sesión**\n\n1.  Terapia física \U0001F93E‍♀️\n\n2.  Terapia ocupacional \U0001F3A8\n\n3.  Hidroterapia \U0001F4A6\n\n*   **+ 1 sesión de Hidroterapia extra \U0001F4A6**\n*   **+ 2 sesiones de Canoterapia \U0001F436**\n*   **+ 1 sesión de Terapia del Lenguaje \U0001F445**\n"
+        subtitle: 3 estaciones
+        price: $280 USD/mes
+        details: "* Estación psicomotriz + estación de talleres + estación piscina y masaje
+\n\n* **Descuento del 48%** por la compra de 3 meses\n\n*   **Incluye** el costo de la evaluación inicial\n\n*   Reporte de seguimiento mensual\n*   De lunes a sábado (bajo agendamiento previo)\n*   Horario de atención: 9AM a 6PM\n"
         actions:
           - label: Comprar Plan Universe
-            url: /signup
+            url: https://api.whatsapp.com/send/?phone=5930984140004&text=%C2%A1Hola+Babu!,+%20quisiera+contratar+un+plan+Universe&app_absent=0
             style: secondary
     subtitle: ¡Nuestros precios están aquí!
   - section_id: faq
@@ -38,15 +40,15 @@ sections:
     title: Preguntas frecuentes
     subtitle: ¿Quieres saber más detalles sobre nuestros servicios?
     faq_items:
-      - question: ¿Pregunta 1?
+      - question: ¿Cómo implementamos un plan efectivo de estimulación temprana en Babu?
         answer: |
-          Respuesta 1
-      - question: ¿Pregunta 2?
+          Apoyamos el desarrollo de cada bebé y niño de forma integral, a través de 4 estaciones. Tenemos gimnasio (Baby Gym + fisioterapia), taller (terapia ocupacional), hidroterapia y masaje.
+      - question: ¿Cuáles son sus precios?
         answer: |
-          Respuesta 2
-      - question: ¿Pregunta 3?
+          Puedes encontrar nuestros precios en la sección de Membresías (menú superior) y revisar nuestras Promociones en la sección respectiva.
+      - question: ¿Dónde están ubicados?
         answer: |
-          Respuesta 3
+          **Quito (Centro-Norte), Ecuador**. Edificio Novus (dentro del edificio). **Dirección:** Av. 6 de Diciembre y Luis Cordero. **Telf./Whatsapp** (+593) 098 414 0004
 seo:
   title: Membresías - Babu
   description: Membresías de estimulación temprana

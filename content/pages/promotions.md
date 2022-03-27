@@ -6,31 +6,30 @@ sections:
     background: gray
     title: "Promociones\_\_\U0001F525"
     pricing_plans:
-      - title: Semana del Prematuro
-        subtitle: Del 16 al 20 de Noviembre 2021
-        price: Evaluaciones Gratis
-        actions:
-          - label: ¡Obtener promoción!
-            url: /signup
-            style: primary
+      #- title: Semana del Prematuro
+      #  subtitle: Del 16 al 20 de Noviembre 2021
+      #  price: Evaluaciones Gratis
+      #  actions:
+      #    - label: ¡Obtener promoción!
+      #      url: /signup
+      #      style: primary
+      #  details: |
+      #    *   Para niños prematuros
+      #
+      #    *   Para niños con problemas de neurodesarrollo
+      #  highlight: true
+      - title: Promo Estimulación Temprana
+        subtitle: Del 1 al 31 de Marzo 2022
+        price: '10% descuento + Juego cognitivo'
         details: |
-          *   Para niños prematuros
+          Para niñas entre 1 mes y 3 años
 
-          *   Para niños con problemas de neurodesarrollo
-        highlight: true
-      - title: Semana del Prematuro
-        subtitle: Del 16 al 20 de Noviembre 2021
-        price: '-15% Descuento'
-        details: |
-          Para niños prematuros
-
-          Para niños con problemas de neurodesarrollo
-
-          En todos los planes
+          Aplica para todas las membresías
         highlight: true
         actions:
           - label: "¡Obtener promoción! \U0001F525"
-            url: /signup
+            url: https://api.whatsapp.com/send/?phone=5930984140004&text=%C2%A1Hola+Babu!,+%20deseo+obtener+la+promoción+vigente&app_absent=0
+            new_window: true
             style: secondary
 seo:
   title: Promociones - Babu

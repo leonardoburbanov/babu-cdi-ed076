@@ -4,18 +4,18 @@ excerpt: >-
   Nuestros perritos ayudan a generar confianza en los niños más pequeños, el
   objetivo es que se sientan capaces de desarrollar cualquier actividad.
 author: content/data/authors/gabriela-miranda.yaml
-date: '2019-03-24'
+date: '2022-03-07'
 thumb_image: /images/Canoterapia - Foto Post.jpg
 image: /images/Canoterapia - Foto Post.jpg
 seo:
-  title: How Our Design Team Collaborates
+  title: Canoterapia
   description: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: How Our Design Team Collaborates
+      value: Canoterapia
       keyName: property
     - name: 'og:description'
       value: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: How Our Design Team Collaborates
+      value: Canoterapia
     - name: 'twitter:description'
       value: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
     - name: 'twitter:image'

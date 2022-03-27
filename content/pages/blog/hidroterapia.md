@@ -3,27 +3,25 @@ title: Hidroterapia
 subtitle: ¡El agua y los bebés se llevan más que bien!
 author: content/data/authors/cinthya-guerron.yaml
 excerpt: ¡Los bebés y el agua se llevan más que bien!
-date: '2021-08-08'
+date: '2022-03-15'
 thumb_image: /images/Tortuga.svg
 thumb_image_alt: A group of people working in a cafe
 image: /images/Tortuga.svg
 image_alt: A group of people working in a cafe
 seo:
-  title: Customer Loyalty Programs That Stick
+  title: Hidroterapia
   description: >-
-    A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-    amet commodo massa.
+    Hidroterapia
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Customer Loyalty Programs That Stick
+      value: Hidroterapia
       keyName: property
     - name: 'og:description'
       value: >-
-        A story about customer loyalty curabitur sed consectetur nisi. Integer
-        sit amet commodo massa.
+        Hidroterapia
       keyName: property
     - name: 'og:image'
       value: images/3.jpg
@@ -32,11 +30,10 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Customer Loyalty Programs That Stick
+      value: Hidroterapia
     - name: 'twitter:description'
       value: >-
-        A story about customer loyalty curabitur sed consectetur nisi. Integer
-        sit amet commodo massa.
+        Hidroterapia
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true

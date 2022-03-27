@@ -28,33 +28,23 @@
                 "style": "primary"
             }
         ],
-        "logo_img": "/images/Logo Babu sin BG.png"
+        "logo_img": "/images/Babu Logo 1.png"
     },
     "footer": {
         "sections": [
             {
                 "type": "footer_text",
-                "image": "/images/Logo Babu sin BG.png",
+                "image": "/images/Babu Logo 1.png",
                 "image_url": "/",
                 "image_alt": "Footer Babu logo"
             },
             {
                 "type": "footer_nav",
-                "title": "Empresa",
+                "title": "Servicios",
                 "nav_links": [
                     {
                         "label": "Agendar una cita",
-                        "url": "/signup",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Contacto",
-                        "url": "/contact",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Blog",
-                        "url": "/blog",
+                        "url": "/agendamiento",
                         "style": "link"
                     }
                 ]
