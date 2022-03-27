@@ -52,13 +52,13 @@ sections:
         content: >
           ¿Quieres garantizar el desarrollo físico de tu bebé? ¿Quieres apoyar a
           tu bebé en su recuperación? La hidroterapia es la solución.
-        actions:
-          - label: Saber más
-            url: /blog/hidroterapia
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        #actions:
+        #  - label: Saber más
+        #    url: /blog/hidroterapia
+        #    style: secondary
+        #    has_icon: true
+        #    icon: arrow-right
+        #    icon_position: right
       - title: 'Baby Gym: Terapia física y ocupacional'
         image: /images/Baby Gym - Foto 1.png
         image_alt: App user profile preview
@@ -67,26 +67,26 @@ sections:
           edad? Aquí, te apoyamos a que tu bebé encuentre sus primeros
           ejercicios, tanto para desarrollo muscular como para desarrollo
           neurológico. ¡Juegan y se ponen fuertes!
-        actions:
-          - label: Saber más
-            url: /blog/baby-gym
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        #actions:
+        #  - label: Saber más
+        #    url: /blog/baby-gym
+        #    style: secondary
+        #    has_icon: true
+        #    icon: arrow-right
+        #    icon_position: right
       - title: Terapia del lenguaje
         image: /images/Terapia del lenguaje - Foto 1.png
         image_alt: App user profile preview
         content: >
           ¿A mi bebé le cuesta comunicarse? ¿No me entiende? ¿Qué hago? La
           terapia del lenguaje es crucial en los primeros meses y años.
-        actions:
-          - label: Saber más
-            url: /blog/terapia-lenguaje
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        #actions:
+        #  - label: Saber más
+        #    url: /blog/terapia-lenguaje
+        #    style: secondary
+        #    has_icon: true
+        #    icon: arrow-right
+        #    icon_position: right
       - title: Terapia con perritos
         image: /images/Canoterapia - Foto 2-e5ef9b95.png
         image_alt: App user profile preview
@@ -96,13 +96,13 @@ sections:
           gruesa de los bebés y niños. Nuestros perritos ayudan a generar
           confianza en los niños más pequeños, el objetivo es que se sientan
           capaces de desarrollar cualquier actividad.
-        actions:
-          - label: Saber más
-            url: /blog/canoterapia
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        #actions:
+        #  - label: Saber más
+        #    url: /blog/canoterapia
+        #    style: secondary
+        #    has_icon: true
+        #    icon: arrow-right
+        #    icon_position: right
       - title: Terapia y cuidado a domicilio
         image: /images/Babu a domicilio - Foto 1.png
         image_alt: App user profile preview
