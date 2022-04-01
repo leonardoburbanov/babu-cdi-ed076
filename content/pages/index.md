@@ -155,7 +155,7 @@ sections:
       #  author_desc: Especialista en Terapia Ocupacional y Conducta Infantil
       - author: Msc. Cinthya Guerrón
         avatar: /images/Foto CG (1).png
-        avatar_alt: Parsley Montana's photo
+        avatar_alt: Foto Cinthya Guerrón
         content: >-
           La familia es la clave en cualquier intervención terapéutica. Cuidamos
           que todos los involucrados apoyen en el desarrollo del bebé y del
@@ -163,7 +163,7 @@ sections:
         author_desc: 'Especialista en Desarrollo Infantil, Atención Temprana y Fisioterapia'
       - author: Lic. Gabriela Miranda
         avatar: /images/Foto GM (1).png
-        avatar_alt: Jonquil Von Haggerston's photo
+        avatar_alt: Foto Gabriela Mirana
         content: >-
           Apoyamos en rehabilitación a nuestros niños utilizando metodologías
           modernas y reconocidas. Estamos innovando en los tratamientos desde la
@@ -224,7 +224,7 @@ seo:
       value: Babu | Estimulación temprana en Quito
       keyName: property
     - name: 'og:description'
-      value: Estimulación temprara y tepiapia intanfil integran para bebés, niñas y niños de 0 a 4 años.
+      value: Agenda tu evaluación de estimulación temprana, hidroterapia, baby gym, terapia del lenguaje, terapia asistida con mascotas y terapia intantil integral a domicilio.
       keyName: property
     - name: 'og:image'
       value: images/Babu Estimulación Temprana.png

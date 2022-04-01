@@ -6,34 +6,26 @@ excerpt: >-
 author: content/data/authors/cinthya-guerron.yaml
 date: '2019-03-27'
 thumb_image: /images/Mamá.jpg
-thumb_image_alt: Business people in a meeting
+thumb_image_alt: Mamá
 image: /images/Mamá.jpg
-image_alt: Business people in a meeting
+image_alt: Mamá
 seo:
-  title: A Guide To User Journey Mapping
-  description: A tale about Journey Mapping
+  title: Terapia del Lenguaje
+  description: >-
+    Agenda tu evaluación de estimulación temprana, hidroterapia, baby gym, terapia del lenguaje, terapia asistida con mascotas y terapia intantil integral a domicilio.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: A Guide To User Journey Mapping
+      value: Terapia del Lenguaje
       keyName: property
     - name: 'og:description'
-      value: A tale about Journey Mapping
+      value: Agenda tu evaluación de estimulación temprana, hidroterapia, baby gym, terapia del lenguaje, terapia asistida con mascotas y terapia intantil integral a domicilio.
       keyName: property
     - name: 'og:image'
-      value: images/10.jpg
+      value: images/Babu Estimulación Temprana.png
       keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: A Guide To User Journey Mapping
-    - name: 'twitter:description'
-      value: A tale about Journey Mapping
-    - name: 'twitter:image'
-      value: images/10.jpg
       relativeUrl: true
 layout: post
 ---

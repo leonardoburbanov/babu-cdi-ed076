@@ -8,30 +8,21 @@ date: '2022-03-07'
 thumb_image: /images/Canoterapia - Foto Post.jpg
 image: /images/Canoterapia - Foto Post.jpg
 seo:
-  title: Canoterapia
-  description: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
+  title: Terapia asistida con mascotas
+  description: Agenda tu evaluación de estimulación temprana, hidroterapia, baby gym, terapia del lenguaje, terapia asistida con mascotas y terapia intantil integral a domicilio.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Canoterapia
+      value: Estimulación temprana asistida con mascotas
       keyName: property
     - name: 'og:description'
-      value: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
+      value: Agenda tu evaluación de estimulación temprana, hidroterapia, baby gym, terapia del lenguaje, terapia asistida con mascotas y terapia intantil integral a domicilio.
       keyName: property
     - name: 'og:image'
-      value: images/11.jpg
+      value: images/Babu Estimulación Temprana.png
       keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Canoterapia
-    - name: 'twitter:description'
-      value: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
-    - name: 'twitter:image'
-      value: images/11.jpg
       relativeUrl: true
 layout: post
 ---

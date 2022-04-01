@@ -50,23 +50,21 @@ sections:
         answer: |
           **Quito (Centro-Norte), Ecuador**. Edificio Novus (dentro del edificio). **Dirección:** Av. 6 de Diciembre y Luis Cordero. **Telf./Whatsapp** (+593) 098 414 0004
 seo:
-  title: Membresías - Babu
-  description: Membresías de estimulación temprana
-  extra:
+  title: Membrerías Babu Estimulación Temprana
+  description: Agenda tu evaluación de estimulación temprana, hidroterapia, baby gym, terapia del lenguaje, terapia asistida con mascotas y terapia intantil integral a domicilio.
+   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Pricing
+      value: Membrerías Babu Estimulación Temprana
       keyName: property
     - name: 'og:description'
-      value: This is the pricing page
+      value: Agenda tu evaluación de estimulación temprana, hidroterapia, baby gym, terapia del lenguaje, terapia asistida con mascotas y terapia intantil integral a domicilio.
       keyName: property
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Pricing
-    - name: 'twitter:description'
-      value: This is the pricing page
+    - name: 'og:image'
+      value: images/Babu Estimulación Temprana.png
+      keyName: property
+      relativeUrl: true
 layout: landing
 ---

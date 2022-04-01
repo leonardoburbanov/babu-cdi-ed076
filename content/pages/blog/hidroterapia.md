@@ -11,7 +11,7 @@ image_alt: A group of people working in a cafe
 seo:
   title: Hidroterapia
   description: >-
-    Hidroterapia
+    Agenda tu evaluación de estimulación temprana, hidroterapia, baby gym, terapia del lenguaje, terapia asistida con mascotas y terapia intantil integral a domicilio.
   extra:
     - name: 'og:type'
       value: article
@@ -20,22 +20,11 @@ seo:
       value: Hidroterapia
       keyName: property
     - name: 'og:description'
-      value: >-
-        Hidroterapia
+      value: Agenda tu evaluación de estimulación temprana, hidroterapia, baby gym, terapia del lenguaje, terapia asistida con mascotas y terapia intantil integral a domicilio.
       keyName: property
     - name: 'og:image'
-      value: images/3.jpg
+      value: images/Babu Estimulación Temprana.png
       keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Hidroterapia
-    - name: 'twitter:description'
-      value: >-
-        Hidroterapia
-    - name: 'twitter:image'
-      value: images/3.jpg
       relativeUrl: true
 layout: post
 ---

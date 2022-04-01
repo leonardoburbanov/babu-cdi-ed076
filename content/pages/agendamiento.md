@@ -37,27 +37,21 @@ sections:
       ######       
 
 seo:
-  title: Agendar evaluación - Babu
-  description: Agendar evaluación - Babu
+  title: Agendamiento Babu Estimulación Temprana
+  description: Agenda tu evaluación de estimulación temprana, hidroterapia, baby gym, terapia del lenguaje, terapia asistida con mascotas y terapia intantil integral a domicilio.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Sign Up
+      value: Agendamiento Babu Estimulación Temprana
       keyName: property
     - name: 'og:description'
-      value: This is the sign up page
+      value: Agenda tu evaluación de estimulación temprana, hidroterapia, baby gym, terapia del lenguaje, terapia asistida con mascotas y terapia intantil integral a domicilio.
       keyName: property
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Sign Up
-    - name: 'twitter:description'
-      value: This is the sign up page
+    - name: 'og:image'
+      value: images/Babu Estimulación Temprana.png
+      keyName: property
+      relativeUrl: true
+
 layout: agendar
----
-
-Una vez agendado el evento te llegará un link de pago a tu correo o whatsapp. **En caso de no pagar el agendamiento en las próximas 24h. se liberará el horario y se asignará a alguien más.**
-
-En caso de cualquier duda o novedad, no dudes en escribirnos por Whatsapp.

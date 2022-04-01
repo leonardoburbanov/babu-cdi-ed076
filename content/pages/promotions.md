@@ -32,23 +32,20 @@ sections:
             new_window: true
             style: secondary
 seo:
-  title: Promociones - Babu
-  description: Promociones en planes de estimulación temprana
-  extra:
+  title: Promociones Babu Estimulación Temprana
+  description: Agenda tu evaluación de estimulación temprana, hidroterapia, baby gym, terapia del lenguaje, terapia asistida con mascotas y terapia intantil integral a domicilio.
+   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Pricing
+      value: Promociones Babu Estimulación Temprana
       keyName: property
     - name: 'og:description'
-      value: This is the pricing page
+      value: Agenda tu evaluación de estimulación temprana, hidroterapia, baby gym, terapia del lenguaje, terapia asistida con mascotas y terapia intantil integral a domicilio.
       keyName: property
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Pricing
-    - name: 'twitter:description'
-      value: This is the pricing page
+    - name: 'og:image'
+      value: images/Babu Estimulación Temprana.png
+      keyName: property
 layout: landing
 ---

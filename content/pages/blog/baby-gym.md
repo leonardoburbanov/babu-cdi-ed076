@@ -9,29 +9,20 @@ image: /images/Mamá.jpg
 image_alt: People in a conference room
 seo:
   title: Baby Gym
-  description: A tale about advantages and disadvantages of working from home
+  description: Agenda tu evaluación de estimulación temprana, hidroterapia, baby gym, terapia del lenguaje, terapia asistida con mascotas y terapia intantil integral a domicilio.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Baby Gym
+      value: Baby Gym - Estimulación Temprana
       keyName: property
     - name: 'og:description'
-      value: A tale about advantages and disadvantages of working from home
+      value: Agenda tu evaluación de estimulación temprana, hidroterapia, baby gym, terapia del lenguaje, terapia asistida con mascotas y terapia intantil integral a domicilio.
       keyName: property
     - name: 'og:image'
-      value: images/9.jpg
+      value: images/Babu Estimulación Temprana.png
       keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Baby Gym
-    - name: 'twitter:description'
-      value: A tale about advantages and disadvantages of working from home
-    - name: 'twitter:image'
-      value: images/9.jpg
       relativeUrl: true
 layout: post
 ---
