@@ -221,23 +221,14 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Babu | Estimulación temprana en Quito
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: Estimulación temprara y tepiapia intanfil integran para bebés, niñas y niños de 0 a 4 años.
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: images/Babu Estimulación Temprana.png
       keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
-    - name: 'twitter:description'
-      value: The preview of the Azimuth theme
-    - name: 'twitter:image'
-      value: images/hero.png
       relativeUrl: true
 layout: landing
 ---
