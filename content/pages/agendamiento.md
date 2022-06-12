@@ -2,7 +2,6 @@
 title: Agendar evaluación
 subtitle: ¡Comencemos este camino juntos!
 sections:
-
   - section_id: call-to-calendly
     type: section_calendly
   - section_id: call-to-map
@@ -34,8 +33,7 @@ sections:
 
       **Telf.** (+593) 098 414 0004
 
-      ######       
-
+      ######
 seo:
   title: Agendamiento Babu Estimulación Temprana
   description: Agenda tu evaluación de estimulación temprana, hidroterapia, baby gym, terapia del lenguaje, terapia asistida con mascotas y terapia intantil integral a domicilio.
@@ -55,3 +53,4 @@ seo:
       relativeUrl: true
 
 layout: agendar
+---
