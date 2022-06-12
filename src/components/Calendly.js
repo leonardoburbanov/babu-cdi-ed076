@@ -41,10 +41,10 @@ export default class Calendly extends React.Component {
                 }
               }}
             utm = { {
-                utmCampaign: 'Spring Sale 2019',
-                utmContent: 'Shoe and Shirts',
-                utmMedium: 'Ad',
-                utmSource: 'Facebook',
+                utmCampaign: '01PW-Agendamiento',
+                utmContent: 'Agendamiento evaluación',
+                utmMedium: 'SEO',
+                utmSource: 'PaginaWeb',
                 utmTerm: 'Spring'
               }}
         />

@@ -19,22 +19,20 @@ sections:
       #    *   Para niños con problemas de neurodesarrollo
       #  highlight: true
       - title: Promo Estimulación Temprana
-        subtitle: Del 1 al 31 de Marzo 2022
-        price: '10% descuento + Juego cognitivo'
+        subtitle: Del 1 al 30 de Junio 2022
+        price: 'Sesiones demostrativas a $15 USD.'
         details: |
-          Para niñas entre 1 mes y 3 años
-
-          Aplica para todas las membresías
+          Recibe una prueba de lo que Babu puede apoyar y hacer por tu bebé. Normalmente cuestan $25, así que ¡aprovecha ya!
         highlight: true
         actions:
           - label: "¡Obtener promoción! \U0001F525"
             url: https://api.whatsapp.com/send/?phone=5930984140004&text=%C2%A1Hola+Babu!,+%20deseo+obtener+la+promoción+vigente&app_absent=0
             new_window: true
-            style: secondary
+            style: primary
 seo:
   title: Promociones Babu Estimulación Temprana
   description: Agenda tu evaluación de estimulación temprana, hidroterapia, baby gym, terapia del lenguaje, terapia asistida con mascotas y terapia intantil integral a domicilio.
-   extra:
+  extra:
     - name: 'og:type'
       value: website
       keyName: property
