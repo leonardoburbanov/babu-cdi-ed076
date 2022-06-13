@@ -4,8 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     image: '/images/Mamá, bebé y cohete - Foto 1-3c056bab.png'
-    image_alt: App preview
-    title: Estimulación temprana y terapia infantil integral para tu peque
+    image_alt: Mamá, bebé y cohete
+    title: Estimulación temprana en Quito y terapia infantil integral para tu bebé
     content: |
       En Babu transformamos la vida de tu bebé y tu vida.
     actions:
@@ -34,9 +34,9 @@ sections:
     features:
       - title: ¿Cómo apoyar a tu bebé?
         image: /images/Papá y bebé astronauta - Foto 1.png
-        image_alt: App preview on a phone and tablet
+        image_alt: Papá y bebé astronauta 
         content: >
-          Desde Babu, evaluamos y cuidamos el desarrollo de tu bebé con
+          Desde Babu, evaluamos y cuidamos la estimulación temprana y el desarrollo de tu bebé con
           metodologías confiables basadas en el juego, respeto y amor. Ven con
           tu bebé y vive una experiencia de aprendizaje y apoyo.
         actions:
@@ -50,7 +50,7 @@ sections:
         image: /images/Hidroterapia - Foto 1.png
         image_alt: App users welcoming a new member
         content: >
-          ¿Quieres garantizar el desarrollo físico de tu bebé? ¿Quieres apoyar a
+          ¿Quieres garantizar el desarrollo físico y estimulación temprana de tu bebé? ¿Quieres apoyar a
           tu bebé en su recuperación? La hidroterapia es la solución.
         actions:
           - label: Membresías
@@ -72,7 +72,7 @@ sections:
         content: >
           ¿Mi bebé está creciendo fuerte? ¿Tiene las habilidades acorde a su
           edad? Aquí, te apoyamos a que tu bebé encuentre sus primeros
-          ejercicios, tanto para desarrollo muscular como para desarrollo
+          ejercicios de estimulación temprana, tanto para desarrollo muscular como para desarrollo
           neurológico. ¡Juegan y se ponen fuertes!
         actions:
           - label: Membresías
@@ -116,7 +116,7 @@ sections:
           aprendizaje y es una herramienta para mejorar la motricidad fina y
           gruesa de los bebés y niños. Nuestros perritos ayudan a generar
           confianza en los niños más pequeños, el objetivo es que se sientan
-          capaces de desarrollar cualquier actividad.
+          capaces de desarrollar cualquier actividad e impulsar su estimulación temprana.
         actions:
           - label: Membresías
             url: /pricing
