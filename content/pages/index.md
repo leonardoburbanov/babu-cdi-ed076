@@ -52,6 +52,13 @@ sections:
         content: >
           ¿Quieres garantizar el desarrollo físico de tu bebé? ¿Quieres apoyar a
           tu bebé en su recuperación? La hidroterapia es la solución.
+        actions:
+          - label: Membresías
+            url: /pricing
+            style: primary
+            has_icon: false
+            icon: arrow-right
+            icon_position: right
         #actions:
         #  - label: Saber más
         #    url: /blog/hidroterapia
@@ -67,6 +74,13 @@ sections:
           edad? Aquí, te apoyamos a que tu bebé encuentre sus primeros
           ejercicios, tanto para desarrollo muscular como para desarrollo
           neurológico. ¡Juegan y se ponen fuertes!
+        actions:
+          - label: Membresías
+            url: /pricing
+            style: primary
+            has_icon: false
+            icon: arrow-right
+            icon_position: right
         #actions:
         #  - label: Saber más
         #    url: /blog/baby-gym
@@ -80,6 +94,13 @@ sections:
         content: >
           ¿A mi bebé le cuesta comunicarse? ¿No me entiende? ¿Qué hago? La
           terapia del lenguaje es crucial en los primeros meses y años.
+        actions:
+          - label: Membresías
+            url: /pricing
+            style: primary
+            has_icon: false
+            icon: arrow-right
+            icon_position: right
         #actions:
         #  - label: Saber más
         #    url: /blog/terapia-lenguaje
@@ -96,6 +117,13 @@ sections:
           gruesa de los bebés y niños. Nuestros perritos ayudan a generar
           confianza en los niños más pequeños, el objetivo es que se sientan
           capaces de desarrollar cualquier actividad.
+        actions:
+          - label: Membresías
+            url: /pricing
+            style: primary
+            has_icon: false
+            icon: arrow-right
+            icon_position: right
         #actions:
         #  - label: Saber más
         #    url: /blog/canoterapia
@@ -112,6 +140,13 @@ sections:
 
           Babu va hacia ti. Terapia y cuidado para tu peque a domicilio en la
           ciudad de Quito.
+        actions:
+          - label: Membresías
+            url: /pricing
+            style: primary
+            has_icon: false
+            icon: arrow-right
+            icon_position: right
         #actions:
         #  - label: Contactar por Whatsapp
         #    url: /features
@@ -120,16 +155,23 @@ sections:
         #    icon: arrow-right
         #    icon_position: right
         #    new_window: true
-      - title: 'Day to day, cuidado de niños'
-        image: /images/Day to Day - Foto 1-d01c4603.png
-        image_alt: App user profile preview
-        content: >
-          Un espacio dedicado al cuidado de tu peque mientras tu trabajas. 4
-          horas de apoyo a esos papás que buscan cuidado de calidad y educación
-          intensiva para su hija o hijo.
+      #- title: 'Day to day, cuidado de niños'
+      #  image: /images/Day to Day - Foto 1-d01c4603.png
+      #  image_alt: App user profile preview
+      #  content: >
+      #    Un espacio dedicado al cuidado de tu peque mientras tu trabajas. 4
+      #    horas de apoyo a esos papás que buscan cuidado de calidad y educación
+      #    intensiva para su hija o hijo.
 
 
-          Incluye: Hidroterapia + Talleres + Baby Gym
+      #    Incluye: Hidroterapia + Talleres + Baby Gym
+      #  actions:
+      #    - label: Membresías
+      #      url: /pricing
+      #      style: primary
+      #      has_icon: false
+      #      icon: arrow-right
+      #      icon_position: right
         #actions:
         #  - label: Contactar por Whatsapp
         #    url: >-
@@ -143,7 +185,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Nuestras profesionales
+    title: Nuestras y nuestros profesionales
     subtitle: ¿Quiénes somos?
     reviews:
       #- avatar: /images/Foto SG.png
@@ -169,6 +211,18 @@ sections:
           modernas y reconocidas. Estamos innovando en los tratamientos desde la
           diversión y el amor.
         author_desc: ' Especialista en Canoterapia, Terapia Ocupacional y Gestión Clínica Infantil'
+      - author: Ter. Byron Torres
+        avatar: /images/Foto BT.png
+        avatar_alt: Foto Byron Torres
+        content: >-
+          Nos especializamos en transformar la experiencia de cada bebé, niña o niño mediante terapia ocupacional para rehabilitación y desarrollo cognitivo y motriz. Estamos comprometidos con cada familia.
+        author_desc: ' Especialista en Terapia Ocupacional'
+      - author: Lic. Grace Alvarado
+        avatar: /images/Foto GA.png
+        avatar_alt: Foto Grace Alvarado
+        content: >-
+          El poder de la comunicación permite que cada niña, niño o bebé se exprese libremente. Apoyamos a cada niño a desarrollar sus sentidos y a comunicarse de forma efectiva. Nos preocupamos por su familia y su inteligencia emocional.
+        author_desc: ' Especialista en Terapia del Lenguaje'
   - section_id: call-to-action
     type: section_cta
     title: ¡Agenda tu evaluación ahora!

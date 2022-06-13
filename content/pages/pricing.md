@@ -48,7 +48,7 @@ sections:
     faq_items:
       - question: ¿Cómo implementamos un plan efectivo de estimulación temprana en Babu?
         answer: |
-          Evaluamos cada caso de forma integral basados en metodologías personalizables y apoyamos el desarrollo de cada bebé y niño a través de **actividades innovadoras y divertidas** en 3 estaciones: **PSICOMOTRIZ** (Baby Gym + Terapia física infantil), **COGNITIVA Y MOTRIZ FINA** (terapia ocupacional, estimulación motriz fina y cognitiva) y **PISCINA Y MASAJE** (estimulación acuática en piscina, hidroterapia y estimulación emocional-sensorial a través del masaje).
+          Realizamos una evaluación integral de todas las áreas de desarrollo para poder elaborar objetivos personalizados en cada caso a través de actividades divertidas en nuestras 4 estaciones: **Gimnasio** (motricidad gruesa y resolución de problemas), **Talleres** (motricidad fina y área cognitiva), **Piscina** (estimulación acuática e hidroterapia) y **Masaje infantil** (relajación y conexión mamá/papá y bebé)
       - question: ¿Cuáles son sus precios?
         answer: |
           Puedes encontrar nuestros precios en la sección de **Membresías** (menú superior) y revisar nuestras **Promociones** en la sección respectiva.
