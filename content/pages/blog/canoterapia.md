@@ -7,6 +7,7 @@ author: content/data/authors/gabriela-miranda.yaml
 date: '2022-03-07'
 thumb_image: /images/Canoterapia - Foto Post.jpg
 image: /images/Canoterapia - Foto Post.jpg
+image_alt: Canoterapia
 seo:
   title: Terapia asistida con mascotas
   description: Agenda tu evaluación de estimulación temprana, hidroterapia, baby gym, terapia del lenguaje, terapia asistida con mascotas y terapia intantil integral a domicilio.

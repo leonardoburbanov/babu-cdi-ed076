@@ -269,7 +269,7 @@ sections:
       ######
 seo:
   title: Babu - Estimulación temprana - Quito
-  description: Estimulación temprana y desarrollo integral para bebés y niños
+  description: Estimulación temprana en Quito. Desarrollo integral para bebés, niñas y niños. Contamos con apoyo en terpia del lenguaje, terapia ocupacional, terapia física infantil, hidroterapia y terapia asistida con mascotas.
   extra:
     - name: 'og:type'
       value: website
