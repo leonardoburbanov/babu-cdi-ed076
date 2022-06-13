@@ -84,7 +84,7 @@ export default class Body extends React.Component {
 
         return (
             <React.Fragment>
-                <Helmet>
+                <Helmet htmlAttributes={{ lang : 'es' }}>
                     <title>{title}</title>
                     <meta charSet="utf-8" />
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
