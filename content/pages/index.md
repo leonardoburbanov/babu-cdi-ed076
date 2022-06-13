@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: '/images/Mamá, bebé y cohete - Foto 1-3c056bab.png'
     image_alt: Mamá, bebé y cohete
-    title: Estimulación temprana en Quito y terapia infantil integral para tu bebé
+    title: Estimulación temprana en Quito
     content: |
       En Babu transformamos la vida de tu bebé y tu vida.
     actions:
